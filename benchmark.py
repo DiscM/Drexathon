@@ -12,6 +12,7 @@ from __future__ import annotations
 import argparse
 import json
 import os
+import threading
 import time
 from concurrent.futures import ThreadPoolExecutor
 
@@ -36,6 +37,38 @@ def _predict_drex(case: dict, with_history: bool) -> tuple[bool, float, int]:
     r = nace.systemone(state, SINGLE_Q)
     p = float(r["answers"]["answer"]["noul"])
     return p >= 0.5, p, r["usage"].get("input_tokens", 0)
+
+
+_lock = threading.Lock()
+
+
+def _cached(method: str, fn):
+    """Keep each live case result in results/benchmark_cache.jsonl, so an
+    interrupted run resumes instead of starting over. The key includes the
+    model and the calibration fit; mock runs are never cached."""
+    if nace.is_mock():
+        return fn
+    cal = (committee.blend.load() or {}).get("fitted", "none") \
+        if method.startswith("committee") else "-"
+    tag = f"{method}|{nace.configure()['model']}|{cal}|"
+    path = os.path.join("results", "benchmark_cache.jsonl")
+    seen: dict[str, dict] = {}
+    if os.path.exists(path):
+        with open(path) as f:
+            for line in f:
+                row = json.loads(line)
+                seen[row["key"]] = row
+    os.makedirs("results", exist_ok=True)
+
+    def wrapped(c):
+        key = tag + c["case_id"]
+        if key in seen:
+            return seen[key]
+        row = dict(fn(c), key=key)
+        with _lock, open(path, "a") as f:
+            f.write(json.dumps(row) + "\n")
+        return row
+    return wrapped
 
 
 def _patient(fn):
@@ -74,24 +107,29 @@ def run_method(method: str, cases: list[dict], workers: int) -> list[dict]:
             scores.append(s)
     elif method in ("drex_single", "drex_single_h"):
         def one(c):
-            return _predict_drex(c, method == "drex_single_h")
+            _, p, tok = _predict_drex(c, method == "drex_single_h")
+            return {"p": p, "tokens": tok}
         with ThreadPoolExecutor(max_workers=workers) as ex:
-            for ok, p, tok in ex.map(_patient(one), cases):
-                preds.append(ok)
-                scores.append(p)
-                tokens += tok
+            for row in ex.map(_cached(method, _patient(one)), cases):
+                preds.append(row["p"] >= 0.5)
+                scores.append(row["p"])
+                tokens += row["tokens"]
     elif method in ("committee", "committee_r0"):
         rounds = 0 if method == "committee_r0" else 1
 
         def one(c):
-            return committee.run(c, debate_rounds=rounds)
+            res = committee.run(c, debate_rounds=rounds)
+            return {"p": res["overturn_prob"],
+                    "p_chair": res["overturn_prob_chair"],
+                    "blended": res["prob_method"] == "blend",
+                    "tokens": res["input_tokens"]}
         with ThreadPoolExecutor(max_workers=workers) as ex:
-            for res in ex.map(_patient(one), cases):
-                preds.append(res["final"] == "overturn")
-                scores.append(res["overturn_prob"])
-                chair_scores.append(res["overturn_prob_chair"])
-                blended = blended or res["prob_method"] == "blend"
-                tokens += res["input_tokens"]
+            for row in ex.map(_cached(method, _patient(one)), cases):
+                preds.append(row["p"] >= 0.5)
+                scores.append(row["p"])
+                chair_scores.append(row["p_chair"])
+                blended = blended or row["blended"]
+                tokens += row["tokens"]
     else:
         raise ValueError(f"unknown method: {method}")
 
