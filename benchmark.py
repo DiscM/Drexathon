@@ -38,6 +38,20 @@ def _predict_drex(case: dict, with_history: bool) -> tuple[bool, float, int]:
     return p >= 0.5, p, r["usage"].get("input_tokens", 0)
 
 
+def _patient(fn):
+    """Retry a case after a pause, so one rate-limit burst late in a long
+    run does not throw away the whole benchmark."""
+    def wrapped(c):
+        for attempt in range(4):
+            try:
+                return fn(c)
+            except nace.NaceError:
+                if attempt == 3:
+                    raise
+                time.sleep(60)
+    return wrapped
+
+
 def run_method(method: str, cases: list[dict], workers: int) -> list[dict]:
     nace.configure()
     n = len(cases)
@@ -62,7 +76,7 @@ def run_method(method: str, cases: list[dict], workers: int) -> list[dict]:
         def one(c):
             return _predict_drex(c, method == "drex_single_h")
         with ThreadPoolExecutor(max_workers=workers) as ex:
-            for ok, p, tok in ex.map(one, cases):
+            for ok, p, tok in ex.map(_patient(one), cases):
                 preds.append(ok)
                 scores.append(p)
                 tokens += tok
@@ -72,7 +86,7 @@ def run_method(method: str, cases: list[dict], workers: int) -> list[dict]:
         def one(c):
             return committee.run(c, debate_rounds=rounds)
         with ThreadPoolExecutor(max_workers=workers) as ex:
-            for res in ex.map(one, cases):
+            for res in ex.map(_patient(one), cases):
                 preds.append(res["final"] == "overturn")
                 scores.append(res["overturn_prob"])
                 chair_scores.append(res["overturn_prob_chair"])

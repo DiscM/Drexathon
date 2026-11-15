@@ -208,6 +208,33 @@ python benchmark.py --n 100
 
 \* cost is an estimate at $0.03 per million input tokens.
 
+### Live results with the calibrated blend (2026-11-14, drex-max-v1.1)
+
+`calibrate.py --n 300` (train cases, 5-fold cross-validation):
+chair alone acc 0.577 / AUC 0.589; rule prior alone 0.587 / 0.668;
+blend 0.643 / 0.721. The regularization strength was chosen on these
+same cases, so the blend figure is slightly optimistic.
+
+`benchmark.py --n 100` on the test split, same 100 cases as above:
+
+| method | n | acc | prec | rec | F1 | AUC | $/case |
+|---|---|---|---|---|---|---|---|
+| majority | 100 | 0.450 | 0.450 | 1.000 | 0.621 | 0.500 | 0.000000* |
+| rule | 100 | 0.650 | 0.667 | 0.444 | 0.533 | 0.631 | 0.000000* |
+| drex_single | 100 | 0.690 | 0.694 | 0.556 | 0.617 | 0.755 | 0.000008* |
+| committee (blend) | 100 | 0.740 | 0.771 | 0.600 | 0.675 | 0.747 | 0.000146* |
+| committee_chair | 100 | 0.660 | 0.617 | 0.644 | 0.630 | 0.664 | 0.000146* |
+| committee_r0 (blend) | 100 | 0.560 | 0.509 | 0.622 | 0.560 | 0.667 | 0.000071* |
+| committee_r0_chair | 100 | 0.660 | 0.612 | 0.667 | 0.638 | 0.725 | 0.000071* |
+
+\* cost is an estimate at $0.03 per million input tokens.
+
+With 100 cases one standard error on accuracy is about 0.045, so the
+blend's lead over `drex_single` (0.74 vs 0.69) is not statistically
+settled, and the AUCs are level. The blend was fitted on runs with
+the debate round, so `committee_r0 (blend)` is not a fair test of the
+no-debate committee; it would need its own fit.
+
 ### API differences found
 
 None so far: all calls matched the documented shapes.
