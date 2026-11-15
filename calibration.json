@@ -1,0 +1,26 @@
+{
+  "bias": -3.24189429197566,
+  "weights": {
+    "actuary.history": 2.165387894399677,
+    "actuary.vote": 0.42848169731581087,
+    "chair.decision": -0.8879256687129621,
+    "chair.needs_human": 2.3139663688994787,
+    "chair.overturn": -0.7701224533372758,
+    "clinical_reviewer.medically_necessary": 0.9920514589066406,
+    "clinical_reviewer.standard_of_care": 3.7416076456033966,
+    "clinical_reviewer.vote": -1.229406875499398,
+    "evidence_reviewer.evidence_strength": 0.007145801225090722,
+    "evidence_reviewer.experimental": 0.7987236088826404,
+    "evidence_reviewer.vote": 1.0647173004937107,
+    "patient_advocate.alternatives_tried": -1.421862934907323,
+    "patient_advocate.harm_if_denied": 0.9422361420905998,
+    "patient_advocate.vote": 0.029929989274158318,
+    "plan_policy_analyst.denial_valid": -1.613713420113423,
+    "plan_policy_analyst.vote": -0.05277323908846264,
+    "prior.rule": 1.0038640494003754
+  },
+  "n_train": 300,
+  "l2": 0.001,
+  "model": "drex-max-v1.1",
+  "fitted": "2026-11-14T21:05:49"
+}

@@ -226,7 +226,7 @@ def image_ref(source) -> dict | str:
     return image_to_data_url(source)
 
 
-def _retry_wait_ms(resp: requests.Response) -> float:
+def _retry_wait_ms(resp: requests.Response, tries: int = 1) -> float:
     v = resp.headers.get("retry-after-ms")
     if v:
         try:
@@ -239,7 +239,9 @@ def _retry_wait_ms(resp: requests.Response) -> float:
             return float(v) * 1000.0
         except ValueError:
             pass
-    return 1000.0
+    # no header: back off 1, 2, 4 ... 30 s, long enough to outlast a
+    # per-minute rate limit window
+    return min(30_000.0, 1000.0 * 2 ** (tries - 1))
 
 
 def _request(method: str, path: str, *, absolute: bool = False, auth: bool = True,
@@ -274,7 +276,7 @@ def _request(method: str, path: str, *, absolute: bool = False, auth: bool = Tru
         if code in RETRY_STATUSES:
             if tries > max_retries:
                 raise NaceError(f"HTTP {code} after {tries} tries", status=code)
-            wait = _retry_wait_ms(resp) / 1000.0
+            wait = _retry_wait_ms(resp, tries) / 1000.0
             time.sleep(wait + random.uniform(0, 0.1 * wait + 0.05))
             continue
         if code == 500 and not five_tried:

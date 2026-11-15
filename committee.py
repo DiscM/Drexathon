@@ -11,6 +11,7 @@ import sys
 import time
 from concurrent.futures import ThreadPoolExecutor
 
+import blend
 import data
 import nace
 
@@ -212,11 +213,11 @@ def run(case: dict, images: list | None = None, image_refs: list | None = None,
         image_tokens += r["usage"].get("image_tokens", 0)
         return r["answers"]
 
-    def state_extra(agent: dict, prev: dict | None) -> dict:
-        st = {"case": fields, "round": 1}
-        if prev is None:
-            st["role"] = agent["role"]
-        else:
+    def state_extra(agent: dict, prev: dict | None, rnd: int) -> dict:
+        # the role stays in every round: without it a debating agent
+        # answers its role-specific questions as a generic model
+        st = {"case": fields, "round": rnd + 1, "role": agent["role"]}
+        if prev is not None:
             st["instruction"] = ("Keep your view unless their findings show "
                                  "something you missed.")
             st["peers"] = {n: _compact(ans) for n, ans in prev.items()
@@ -227,8 +228,8 @@ def run(case: dict, images: list | None = None, image_refs: list | None = None,
     rounds_out = {}
     for rnd in range(1 + max(0, debate_rounds)):
         with ThreadPoolExecutor(max_workers=len(agents)) as ex:
-            futs = {a["name"]: ex.submit(call, a, state_extra(a, None if rnd == 0
-                                                              else last))
+            futs = {a["name"]: ex.submit(call, a, state_extra(
+                a, None if rnd == 0 else last, rnd))
                     for a in agents}
             last = {name: f.result() for name, f in futs.items()}
         rounds_out[f"round{rnd + 1}"] = last
@@ -236,7 +237,10 @@ def run(case: dict, images: list | None = None, image_refs: list | None = None,
     chair = call_chair({"case": fields,
                         "findings": {n: _compact(a) for n, a in last.items()}})
 
-    p = float(chair["overturn"]["noul"])
+    p_chair = float(chair["overturn"]["noul"])
+    feats = blend.features(last, chair, fields)
+    # calibrated blend when calibration.json exists, else the chair's value
+    p, prob_method = blend.predict(feats, p_chair)
     final = "overturn" if p >= threshold else "uphold"
 
     reasons = []
@@ -258,6 +262,9 @@ def run(case: dict, images: list | None = None, image_refs: list | None = None,
         "chair": chair,
         "final": final,
         "overturn_prob": p,
+        "overturn_prob_chair": p_chair,
+        "prob_method": prob_method,
+        "features": feats,
         "strength": strength,
         "patient_note": NOTES[strength],
         "needs_human": needs_human,
@@ -370,10 +377,11 @@ def main(argv: list[str]) -> int:
             print(f"  {name}: {_compact(a)}")
     ch = res["chair"]
     print(f"Chair: decision={ch['decision']['choice']} "
-          f"P(overturn)={res['overturn_prob']:.2f} "
+          f"P(overturn)={res['overturn_prob_chair']:.2f} "
           f"needs_human={ch['needs_human']['noul'] >= 0.5}")
     print(f"Final: {res['final']} | strength={res['strength']} "
-          f"| P(overturn)={res['overturn_prob']:.2f}")
+          f"| P(overturn)={res['overturn_prob']:.2f} "
+          f"({res['prob_method']})")
     print(f"Note: {res['patient_note']}")
     print(f"Next step: {res['next_step']}")
     print("Reasons: " + ("; ".join(res["reasons"]) or "none"))

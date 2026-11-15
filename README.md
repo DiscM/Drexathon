@@ -57,6 +57,8 @@ Other tools:
 - `.venv/bin/python benchmark.py --n 100` — method comparison on the
   test set.
 - `.venv/bin/python doctor.py` — environment check.
+- `.venv/bin/python calibrate.py --n 300` — fit the calibrated blend
+  (see "The calibrated blend").
 
 **Mock mode:** try everything without a key or API calls:
 
@@ -87,6 +89,22 @@ Baselines on the 633 leak-free benchmark cases:
 
 - rule (train-set rate of the TreatmentSubCategory): accuracy about
   63%, AUC about 0.66.
+
+## The calibrated blend
+
+The chair's P(overturn) is one Drex guess. `calibrate.py` runs the
+committee on train cases (never the benchmark's test split), fits a
+logistic regression over every agent answer, the chair's answers and
+the rule prior, prints cross-validated accuracy and AUC for the chair
+alone and for the blend, and writes `calibration.json`. When that file
+exists, `committee.run` reports the blend as P(overturn) and keeps the
+chair's value in `overturn_prob_chair`; without it the chair's value
+is used unchanged. Runs are kept in `results/calibration_runs.jsonl`,
+so a re-run only pays for new cases.
+
+`benchmark.py` then prints `committee` (blend) next to
+`committee_chair` (same calls, chair's value). `committee_r0` is the
+committee without the debate round.
 
 ## The NDI flow
 

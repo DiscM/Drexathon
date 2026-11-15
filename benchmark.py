@@ -1,6 +1,9 @@
 """Benchmark: how well each method predicts the public IMR outcome.
 
-Methods: majority, rule, drex_single, drex_single_h, committee.
+Methods: majority, rule, drex_single, drex_single_h, committee,
+committee_r0 (no debate round). When calibration.json exists, a committee
+run also prints a "<method>_chair" row: the same calls scored with the
+chair's raw probability, to show what the calibrated blend adds.
 Metrics: accuracy, precision, recall, F1, AUC (by rank, hand-written),
 $/case, ms/case. Mock runs are marked, never reported as real results.
 """
@@ -35,12 +38,14 @@ def _predict_drex(case: dict, with_history: bool) -> tuple[bool, float, int]:
     return p >= 0.5, p, r["usage"].get("input_tokens", 0)
 
 
-def run_method(method: str, cases: list[dict], workers: int) -> dict:
+def run_method(method: str, cases: list[dict], workers: int) -> list[dict]:
     nace.configure()
     n = len(cases)
     base_rate = data.rule_score({})  # base rate when category has <10 rows
     preds: list[bool] = []
     scores: list[float] = []
+    chair_scores: list[float] = []
+    blended = False
     tokens = 0
     t0 = time.perf_counter()
 
@@ -61,20 +66,34 @@ def run_method(method: str, cases: list[dict], workers: int) -> dict:
                 preds.append(ok)
                 scores.append(p)
                 tokens += tok
-    elif method == "committee":
+    elif method in ("committee", "committee_r0"):
+        rounds = 0 if method == "committee_r0" else 1
+
         def one(c):
-            res = committee.run(c)
-            return res["final"] == "overturn", res["overturn_prob"], res["input_tokens"]
+            return committee.run(c, debate_rounds=rounds)
         with ThreadPoolExecutor(max_workers=workers) as ex:
-            for ok, p, tok in ex.map(one, cases):
-                preds.append(ok)
-                scores.append(p)
-                tokens += tok
+            for res in ex.map(one, cases):
+                preds.append(res["final"] == "overturn")
+                scores.append(res["overturn_prob"])
+                chair_scores.append(res["overturn_prob_chair"])
+                blended = blended or res["prob_method"] == "blend"
+                tokens += res["input_tokens"]
     else:
         raise ValueError(f"unknown method: {method}")
 
     wall_ms = (time.perf_counter() - t0) * 1000
     labels = [c["overturned"] for c in cases]
+    out = [_metrics(method, labels, preds, scores, tokens, wall_ms)]
+    if blended:
+        out.append(_metrics(method + "_chair", labels,
+                            [p >= 0.5 for p in chair_scores], chair_scores,
+                            tokens, wall_ms))
+    return out
+
+
+def _metrics(method: str, labels: list[bool], preds: list[bool],
+             scores: list[float], tokens: int, wall_ms: float) -> dict:
+    n = len(labels)
     tp = sum(1 for y, p in zip(labels, preds) if y and p)
     fp = sum(1 for y, p in zip(labels, preds) if (not y) and p)
     fn = sum(1 for y, p in zip(labels, preds) if y and (not p))
@@ -133,7 +152,8 @@ def main() -> int:
     nace.configure()
     mock = nace.is_mock()
 
-    results = [run_method(m, cases, args.workers) for m in args.methods]
+    results = [r for m in args.methods
+               for r in run_method(m, cases, args.workers)]
 
     if mock:
         print("NOTE: mock mode (NACE_MOCK=1 / no key) - these numbers are NOT real results.")
