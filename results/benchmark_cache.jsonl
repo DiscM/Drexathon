@@ -1,0 +1,1266 @@
+{"p": 0.48869861696068595, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN23-39230"}
+{"p": 0.11561980498970136, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI17-25177"}
+{"p": 0.4774090051651001, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-26424"}
+{"p": 0.29237097435677606, "p_chair": 0.6003481983930946, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26424"}
+{"p": 0.24219711298705004, "p_chair": 0.06771398285244418, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25177"}
+{"p": 0.7816088937749356, "p_chair": 0.8024376391638028, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-39230"}
+{"p": 0.12032384335753438, "tokens": 389, "key": "drex_single|drex-max-v1.1|-|EI23-39942"}
+{"p": 0.3070746660232544, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26750"}
+{"p": 0.2789912390107655, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|EI17-26306"}
+{"p": 0.5894526243209839, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-22364"}
+{"p": 0.2789914393124413, "tokens": 478, "key": "drex_single|drex-max-v1.1|-|EI22-37514"}
+{"p": 0.43259352445602417, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-25125"}
+{"p": 0.29753909401712103, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|UR18-28603"}
+{"p": 0.4774090051651001, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI18-27384"}
+{"p": 0.48869873616997195, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN19-30989"}
+{"p": 0.2525404468935861, "tokens": 263, "key": "drex_single|drex-max-v1.1|-|EI21-34629"}
+{"p": 0.4549099802970886, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|EI17-26684"}
+{"p": 0.5894526243209839, "tokens": 508, "key": "drex_single|drex-max-v1.1|-|EI25-44328"}
+{"p": 0.43259352445602417, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|MN21-35601"}
+{"p": 0.6111452761633777, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-26401"}
+{"p": 0.32664334774017334, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN21-35835"}
+{"p": 0.04230237111769501, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN18-27597"}
+{"p": 0.0706246356759166, "tokens": 403, "key": "drex_single|drex-max-v1.1|-|EI21-35141"}
+{"p": 0.1408177486183904, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI16-23808"}
+{"p": 0.48869861696068595, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-25081"}
+{"p": 0.43259362675528606, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-25079"}
+{"p": 0.8591822513816096, "tokens": 433, "key": "drex_single|drex-max-v1.1|-|EI25-44661"}
+{"p": 0.5225910855884007, "tokens": 258, "key": "drex_single|drex-max-v1.1|-|MN16-23531"}
+{"p": 0.1975624323980913, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|EI18-29916"}
+{"p": 0.6003481983930946, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-25129"}
+{"p": 0.5894526243209839, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-26886"}
+{"p": 0.38885472383662234, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN16-24135"}
+{"p": 0.6633354227740936, "tokens": 283, "key": "drex_single|drex-max-v1.1|-|EI19-30786"}
+{"p": 0.6111452761633777, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN16-23683"}
+{"p": 0.43259352445602417, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI18-27515"}
+{"p": 0.23585593700408936, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI17-27196"}
+{"p": 0.39965192674553174, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-25377"}
+{"p": 0.28817641735076904, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI21-34962"}
+{"p": 0.5450900197029114, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI16-24221"}
+{"p": 0.5338576595144766, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI18-27726"}
+{"p": 0.6428527427569849, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN16-24281"}
+{"p": 0.29753909401712103, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI16-23302"}
+{"p": 0.6003481983930946, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-24360"}
+{"p": 0.46614234048552333, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-24430"}
+{"p": 0.28817641735076904, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-25742"}
+{"p": 0.2278048626242619, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|EI16-23872"}
+{"p": 0.26998794078826904, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN17-24917"}
+{"p": 0.21229062025439946, "tokens": 301, "key": "drex_single|drex-max-v1.1|-|MN19-30599"}
+{"p": 0.06222385888307498, "tokens": 458, "key": "drex_single|drex-max-v1.1|-|EI22-36676"}
+{"p": 0.261169970035553, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI16-24130"}
+{"p": 0.43259352445602417, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN16-23719"}
+{"p": 0.1463771716839918, "tokens": 365, "key": "drex_single|drex-max-v1.1|-|EI23-39943"}
+{"p": 0.6003481983930946, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN17-25803"}
+{"p": 0.6832220946782203, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|MN16-24007"}
+{"p": 0.11561980498970136, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-26349"}
+{"p": 0.32664342681428354, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|EI16-24185"}
+{"p": 0.6111452761633777, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN17-25063"}
+{"p": 0.37816548347473145, "tokens": 268, "key": "drex_single|drex-max-v1.1|-|EI19-30618"}
+{"p": 0.511301263830028, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-21568"}
+{"p": 0.4215313368579347, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25802"}
+{"p": 0.4661422371864319, "tokens": 253, "key": "drex_single|drex-max-v1.1|-|MN17-26608"}
+{"p": 0.653164803981781, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI18-27784"}
+{"p": 0.5674064755439758, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN17-27300"}
+{"p": 0.26117005165904605, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-26964"}
+{"p": 0.3468350561359491, "tokens": 356, "key": "drex_single|drex-max-v1.1|-|MN25-44251"}
+{"p": 0.32664342681428354, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-25534"}
+{"p": 0.48869873616997195, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI17-26261"}
+{"p": 0.5674064755439758, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN17-26773"}
+{"p": 0.3468350561359491, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI16-23470"}
+{"p": 0.6531649438640509, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-24010"}
+{"p": 0.1463771716839918, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|EI17-26553"}
+{"p": 0.35714731471852573, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN17-26170"}
+{"p": 0.4774089144115993, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-27145"}
+{"p": 0.46614234048552333, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN17-26113"}
+{"p": 0.7558983789652103, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-25979"}
+{"p": 0.48869873616997195, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|MN16-23487"}
+{"p": 0.5784686631420654, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN17-26419"}
+{"p": 0.16415066772474843, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|EI17-27231"}
+{"p": 0.5784686631420654, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|MN16-23406"}
+{"p": 0.20482820236472768, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-22815"}
+{"p": 0.5562765764080457, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|MN17-25823"}
+{"p": 0.9350850860799874, "tokens": 389, "key": "drex_single|drex-max-v1.1|-|EI24-41659"}
+{"p": 0.6003481983930946, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN17-25089"}
+{"p": 0.307074448255466, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI18-27626"}
+{"p": 0.4774090051651001, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN21-35190"}
+{"p": 0.36759344838838126, "tokens": 246, "key": "drex_single|drex-max-v1.1|-|EI18-28822"}
+{"p": 0.12032384335753438, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI17-26344"}
+{"p": 0.2881763193554783, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|EI20-32343"}
+{"p": 0.5562767121956773, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN17-25059"}
+{"p": 0.5, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN21-35674"}
+{"p": 0.4661422371864319, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-25736"}
+{"p": 0.5450900197029114, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26980"}
+{"p": 0.1580409909462338, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN17-25409"}
+{"p": 0.3070746660232544, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN16-23843"}
+{"p": 0.8796761566424656, "tokens": 429, "key": "drex_single|drex-max-v1.1|-|EI25-46172"}
+{"p": 0.29753889746848056, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN18-27983"}
+{"p": 0.19756250395998334, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-25694"}
+{"p": 0.4215313368579347, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN16-22392"}
+{"p": 0.8748078271632092, "tokens": 312, "key": "drex_single|drex-max-v1.1|-|EI24-43249"}
+{"p": 0.5338576595144766, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|MN16-24318"}
+{"p": 0.5338577628135681, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|MN18-28035"}
+{"p": 0.5, "tokens": 259, "key": "drex_single|drex-max-v1.1|-|MN17-26367"}
+{"p": 0.3167780245310657, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI16-24296"}
+{"p": 0.5894527259632133, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN18-27780"}
+{"p": 0.511301263830028, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|MN16-23317"}
+{"p": 0.5338577628135681, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26725"}
+{"p": 0.1769371383469444, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-26243"}
+{"p": 0.4549099802970886, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-26161"}
+{"p": 0.4105473756790161, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN18-27431"}
+{"p": 0.15211734629027088, "tokens": 385, "key": "drex_single|drex-max-v1.1|-|EI20-33878"}
+{"p": 0.7118236806445217, "tokens": 279, "key": "drex_single|drex-max-v1.1|-|EI18-28594"}
+{"p": 0.48869873616997195, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN25-44153"}
+{"p": 0.48869873616997195, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-25285"}
+{"p": 0.5784686631420654, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|MN16-23983"}
+{"p": 0.4774090051651001, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|MN17-27210"}
+{"p": 0.1463772781733084, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI16-23689"}
+{"p": 0.21229062025439946, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN16-23873"}
+{"p": 0.9403627900698157, "tokens": 392, "key": "drex_single|drex-max-v1.1|-|EI24-42118"}
+{"p": 0.5562767121956773, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN16-23948"}
+{"p": 0.4549099802970886, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN17-25244"}
+{"p": 0.09837330059429034, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-24409"}
+{"p": 0.20482820236472768, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-26497"}
+{"p": 0.8748078271632092, "tokens": 390, "key": "drex_single|drex-max-v1.1|-|EI24-43339"}
+{"p": 0.2789914393124413, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN22-36957"}
+{"p": 0.3070746660232544, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI18-28825"}
+{"p": 0.11561975886567888, "tokens": 343, "key": "drex_single|drex-max-v1.1|-|EI25-45359"}
+{"p": 0.6003480732544683, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-26152"}
+{"p": 0.5, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25248"}
+{"p": 0.4774090051651001, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI18-28468"}
+{"p": 0.38885483808190596, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-23043"}
+{"p": 0.48869873616997195, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI17-26589"}
+{"p": 0.4661422371864319, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN22-36687"}
+{"p": 0.33666467666625977, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|EI16-24120"}
+{"p": 0.48869873616997195, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI18-28000"}
+{"p": 0.9232047452328822, "tokens": 431, "key": "drex_single|drex-max-v1.1|-|EI23-39928"}
+{"p": 0.13543575194860982, "tokens": 495, "key": "drex_single|drex-max-v1.1|-|EI21-36517"}
+{"p": 0.8358493322752516, "tokens": 363, "key": "drex_single|drex-max-v1.1|-|EI22-37515"}
+{"p": 0.6111452761633777, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-27119"}
+{"p": 0.41054727403678676, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN21-36073"}
+{"p": 0.5, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI17-24524"}
+{"p": 0.21994957834707596, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|EI17-26582"}
+{"p": 0.5225910855884007, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|MN17-25088"}
+{"p": 0.4661422371864319, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-23142"}
+{"p": 0.43259352445602417, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-26164"}
+{"p": 0.4215313368579347, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN18-27443"}
+{"p": 0.3167780245310657, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-27104"}
+{"p": 0.26117005165904605, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|EI17-26075"}
+{"p": 0.21229045409396968, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN17-26834"}
+{"p": 0.4105473756790161, "tokens": 260, "key": "drex_single|drex-max-v1.1|-|EI18-28122"}
+{"p": 0.1463772781733084, "tokens": 326, "key": "drex_single|drex-max-v1.1|-|EI24-41977"}
+{"p": 0.5562767121956773, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|MN17-27070"}
+{"p": 0.1704486608505249, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|EI17-26429"}
+{"p": 0.09063906695301435, "tokens": 458, "key": "drex_single|drex-max-v1.1|-|EI22-37121"}
+{"p": 0.5674064755439758, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-26135"}
+{"p": 0.5562765764080457, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN16-24179"}
+{"p": 0.346835196018219, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN17-27219"}
+{"p": 0.43259352445602417, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN15-20560"}
+{"p": 0.5, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN23-39101"}
+{"p": 0.511301263830028, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-25558"}
+{"p": 0.6111451619180941, "tokens": 272, "key": "drex_single|drex-max-v1.1|-|MN21-34703"}
+{"p": 0.4105473756790161, "tokens": 268, "key": "drex_single|drex-max-v1.1|-|MN23-39458"}
+{"p": 0.16415066772474843, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|EI17-24585"}
+{"p": 0.46614234048552333, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-26481"}
+{"p": 0.6003480732544683, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-26489"}
+{"p": 0.7800505045048818, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|MN17-26500"}
+{"p": 0.5674064755439758, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI17-26628"}
+{"p": 0.33666467666625977, "tokens": 254, "key": "drex_single|drex-max-v1.1|-|MN18-29816"}
+{"p": 0.5450901551571534, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN17-26996"}
+{"p": 0.5450900197029114, "tokens": 262, "key": "drex_single|drex-max-v1.1|-|MN17-27233"}
+{"p": 0.511301263830028, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN23-38552"}
+{"p": 0.4549099802970886, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN21-35442"}
+{"p": 0.43259362675528606, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN16-23304"}
+{"p": 0.28817641735076904, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|EI21-35017"}
+{"p": 0.937776169495516, "tokens": 396, "key": "drex_single|drex-max-v1.1|-|EI21-35063"}
+{"p": 0.18361799692538375, "tokens": 368, "key": "drex_single|drex-max-v1.1|-|EI25-44227"}
+{"p": 0.33666467666625977, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26372"}
+{"p": 0.06771396201422754, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI17-26336"}
+{"p": 0.5450900197029114, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN17-27034"}
+{"p": 0.4437232878043227, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|MN17-25095"}
+{"p": 0.4661422371864319, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI22-38270"}
+{"p": 0.6324064324023256, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-26619"}
+{"p": 0.4549099802970886, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN16-22147"}
+{"p": 0.28817641735076904, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI18-27335"}
+{"p": 0.4105473756790161, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN21-36043"}
+{"p": 0.4774089144115993, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN17-24496"}
+{"p": 0.1704486608505249, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI16-24289"}
+{"p": 0.6531649438640509, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26443"}
+{"p": 0.48869861696068595, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|EI16-24140"}
+{"p": 0.5, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN17-26247"}
+{"p": 0.10669004887499244, "tokens": 275, "key": "drex_single|drex-max-v1.1|-|EI19-30742"}
+{"p": 0.6733565731857165, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN17-25164"}
+{"p": 0.5, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-24415"}
+{"p": 0.511301263830028, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN16-21514"}
+{"p": 0.4215313368579347, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI17-26141"}
+{"p": 0.4549099802970886, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN16-21328"}
+{"p": 0.3468350561359491, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26304"}
+{"p": 0.4105473756790161, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-23539"}
+{"p": 0.31677780499392166, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI17-25594"}
+{"p": 0.6003481983930946, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI17-25147"}
+{"p": 0.4215313368579347, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI18-28357"}
+{"p": 0.5225909948348999, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN18-27715"}
+{"p": 0.5894526243209839, "tokens": 246, "key": "drex_single|drex-max-v1.1|-|MN16-23642"}
+{"p": 0.4549099802970886, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-24393"}
+{"p": 0.4549098448428465, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN18-27971"}
+{"p": 0.5225909948348999, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-25673"}
+{"p": 0.7300119617584933, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI19-30602"}
+{"p": 0.11561985830753409, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-24533"}
+{"p": 0.3996518016069054, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-26432"}
+{"p": 0.511301383039314, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN18-27405"}
+{"p": 0.8163820030746163, "tokens": 855, "key": "drex_single|drex-max-v1.1|-|EI22-38202"}
+{"p": 0.37816548347473145, "tokens": 215, "key": "drex_single|drex-max-v1.1|-|MN17-27063"}
+{"p": 0.8843801416924659, "tokens": 316, "key": "drex_single|drex-max-v1.1|-|MN19-30449"}
+{"p": 0.5225909948348999, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26910"}
+{"p": 0.48869873616997195, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN16-21924"}
+{"p": 0.3468350561359491, "tokens": 257, "key": "drex_single|drex-max-v1.1|-|MN16-24304"}
+{"p": 0.28817641735076904, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|EI19-30600"}
+{"p": 0.6218344158480887, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN18-27527"}
+{"p": 0.5, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN16-23274"}
+{"p": 0.41054727403678676, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-24369"}
+{"p": 0.4437232878043227, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|EI19-31295"}
+{"p": 0.5, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-23064"}
+{"p": 0.09063906695301435, "tokens": 516, "key": "drex_single|drex-max-v1.1|-|EI22-38086"}
+{"p": 0.6218344158480887, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN17-26837"}
+{"p": 0.4774090051651001, "tokens": 247, "key": "drex_single|drex-max-v1.1|-|EI20-34411"}
+{"p": 0.46614234048552333, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN17-26098"}
+{"p": 0.4437232878043227, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-26984"}
+{"p": 0.5338577628135681, "tokens": 270, "key": "drex_single|drex-max-v1.1|-|MN16-24276"}
+{"p": 0.6324065516116187, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN18-27620"}
+{"p": 0.4549099802970886, "tokens": 254, "key": "drex_single|drex-max-v1.1|-|MN17-27106"}
+{"p": 0.6733566522598267, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-21680"}
+{"p": 0.6633353233337402, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25379"}
+{"p": 0.4105473756790161, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI17-25083"}
+{"p": 0.46614234048552333, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN18-28041"}
+{"p": 0.16415066772474843, "tokens": 497, "key": "drex_single|drex-max-v1.1|-|EI21-36603"}
+{"p": 0.5450900197029114, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26159"}
+{"p": 0.36759356759767436, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN22-37388"}
+{"p": 0.13543575194860982, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-24444"}
+{"p": 0.511301263830028, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|EI18-28127"}
+{"p": 0.8975430593260667, "tokens": 386, "key": "drex_single|drex-max-v1.1|-|EI21-35619"}
+{"p": 0.5450900197029114, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-25204"}
+{"p": 0.25254034996032715, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN17-26112"}
+{"p": 0.6003480732544683, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|MN17-26404"}
+{"p": 0.08345663547515869, "tokens": 301, "key": "drex_single|drex-max-v1.1|-|EI19-31215"}
+{"p": 0.46614234048552333, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-22118"}
+{"p": 0.39965192674553174, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-27143"}
+{"p": 0.0706246356759166, "tokens": 254, "key": "drex_single|drex-max-v1.1|-|EI19-30583"}
+{"p": 0.2699881413582521, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN16-22800"}
+{"p": 0.4774090051651001, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-26321"}
+{"p": 0.4549099802970886, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN17-27017"}
+{"p": 0.4215313368579347, "tokens": 266, "key": "drex_single|drex-max-v1.1|-|MN17-27186"}
+{"p": 0.567406373244714, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN17-27042"}
+{"p": 0.4215313368579347, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|UR17-25542"}
+{"p": 0.5225910855884007, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|EI19-30450"}
+{"p": 0.5562765764080457, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN16-23253"}
+{"p": 0.4661422371864319, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN16-23652"}
+{"p": 0.37816548347473145, "tokens": 247, "key": "drex_single|drex-max-v1.1|-|EI16-24308"}
+{"p": 0.36759344838838126, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN17-25669"}
+{"p": 0.41054727403678676, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN18-28394"}
+{"p": 0.22780494731374007, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|EI16-23335"}
+{"p": 0.2881763193554783, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|EI18-27627"}
+{"p": 0.6324065516116187, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-24480"}
+{"p": 0.43259362675528606, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26225"}
+{"p": 0.9130191990873575, "tokens": 574, "key": "drex_single|drex-max-v1.1|-|EI21-34826"}
+{"p": 0.4437234235919542, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN21-34546"}
+{"p": 0.2278048626242619, "tokens": 253, "key": "drex_single|drex-max-v1.1|-|MN21-35421"}
+{"p": 0.11107645432076874, "tokens": 427, "key": "drex_single|drex-max-v1.1|-|EI21-36156"}
+{"p": 0.13543580674284408, "tokens": 396, "key": "drex_single|drex-max-v1.1|-|EI23-39618"}
+{"p": 0.5225909948348999, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-26525"}
+{"p": 0.5562767121956773, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN16-23852"}
+{"p": 0.14081762940909906, "tokens": 360, "key": "drex_single|drex-max-v1.1|-|EI20-33977"}
+{"p": 0.5338577628135681, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN18-27675"}
+{"p": 0.29753889746848056, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI17-26799"}
+{"p": 0.5450900197029114, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN16-23646"}
+{"p": 0.4437234235919542, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-24068"}
+{"p": 0.4661422371864319, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN17-25848"}
+{"p": 0.5, "tokens": 395, "key": "drex_single|drex-max-v1.1|-|MN20-33852"}
+{"p": 0.261169970035553, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|EI18-27302"}
+{"p": 0.5225909948348999, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN23-38721"}
+{"p": 0.26998803824150674, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-25901"}
+{"p": 0.10669013510235158, "tokens": 383, "key": "drex_single|drex-max-v1.1|-|EI21-36622"}
+{"p": 0.33666467666625977, "tokens": 271, "key": "drex_single|drex-max-v1.1|-|EI17-25922"}
+{"p": 0.4105473756790161, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN25-43598"}
+{"p": 0.32664334774017334, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25288"}
+{"p": 0.38885472383662234, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|EI16-24207"}
+{"p": 0.905564719770236, "tokens": 449, "key": "drex_single|drex-max-v1.1|-|MN19-31452"}
+{"p": 0.48869873616997195, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|MN18-27518"}
+{"p": 0.19049260658803852, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI16-22715"}
+{"p": 0.4549099802970886, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN16-22714"}
+{"p": 0.4661422371864319, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI17-24672"}
+{"p": 0.6218344158480887, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN17-24855"}
+{"p": 0.48869873616997195, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI17-24660"}
+{"p": 0.9475303853022665, "tokens": 430, "key": "drex_single|drex-max-v1.1|-|EI22-37303"}
+{"p": 0.6003480732544683, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN18-28077"}
+{"p": 0.7558982259646323, "tokens": 283, "key": "drex_single|drex-max-v1.1|-|EI19-30710"}
+{"p": 0.5225910855884007, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|MN17-24685"}
+{"p": 0.4437234235919542, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN21-35311"}
+{"p": 0.39965192674553174, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-25597"}
+{"p": 0.6832219754689343, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-27085"}
+{"p": 0.7024610042572021, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN17-24437"}
+{"p": 0.3468350561359491, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-24386"}
+{"p": 0.26998803824150674, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI18-28499"}
+{"p": 0.38885472383662234, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI17-25984"}
+{"p": 0.6531649438640509, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-26921"}
+{"p": 0.5, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-24058"}
+{"p": 0.43259352445602417, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI18-28258"}
+{"p": 0.1580410725170214, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI18-28462"}
+{"p": 0.32664334774017334, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|EI18-27875"}
+{"p": 0.27899134159088135, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-27363"}
+{"p": 0.5338577628135681, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-24946"}
+{"p": 0.28817641735076904, "tokens": 256, "key": "drex_single|drex-max-v1.1|-|EI19-30606"}
+{"p": 0.6832221950060783, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI16-23387"}
+{"p": 0.4105473756790161, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN18-27766"}
+{"p": 0.5225909948348999, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-23062"}
+{"p": 0.5, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN18-27568"}
+{"p": 0.6111452761633777, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN17-26485"}
+{"p": 0.09837334004600853, "tokens": 330, "key": "drex_single|drex-max-v1.1|-|EI23-40284"}
+{"p": 0.10245694067393332, "tokens": 452, "key": "drex_single|drex-max-v1.1|-|EI23-39938"}
+{"p": 0.20482826232910156, "tokens": 479, "key": "drex_single|drex-max-v1.1|-|MN16-23826"}
+{"p": 0.6324065516116187, "tokens": 277, "key": "drex_single|drex-max-v1.1|-|MN17-26331"}
+{"p": 0.9016266994057096, "tokens": 627, "key": "drex_single|drex-max-v1.1|-|EI23-40309"}
+{"p": 0.5225909948348999, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|EI18-28541"}
+{"p": 0.5450901551571534, "tokens": 268, "key": "drex_single|drex-max-v1.1|-|MN17-25643"}
+{"p": 0.6733566522598267, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-23366"}
+{"p": 0.5450900197029114, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN25-44322"}
+{"p": 0.15211746549956398, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26333"}
+{"p": 0.5225909948348999, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN17-25220"}
+{"p": 0.511301263830028, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN19-31103"}
+{"p": 0.33666467666625977, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26469"}
+{"p": 0.5225910855884007, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN21-35802"}
+{"p": 0.6003480732544683, "tokens": 249, "key": "drex_single|drex-max-v1.1|-|MN17-27054"}
+{"p": 0.11561980498970136, "tokens": 297, "key": "drex_single|drex-max-v1.1|-|EI21-36496"}
+{"p": 0.39965192674553174, "tokens": 273, "key": "drex_single|drex-max-v1.1|-|MN22-37785"}
+{"p": 0.567406373244714, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|MN17-25012"}
+{"p": 0.6428527427569849, "tokens": 267, "key": "drex_single|drex-max-v1.1|-|MN17-25444"}
+{"p": 0.4774089144115993, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-24797"}
+{"p": 0.4549099802970886, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|UR18-27480"}
+{"p": 0.511301383039314, "tokens": 358, "key": "drex_single|drex-max-v1.1|-|MN17-25516"}
+{"p": 0.39965192674553174, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-26388"}
+{"p": 0.4549099802970886, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-25474"}
+{"p": 0.511301263830028, "tokens": 276, "key": "drex_single|drex-max-v1.1|-|MN18-27376"}
+{"p": 0.5338577628135681, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|MN17-26166"}
+{"p": 0.4105473756790161, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-26713"}
+{"p": 0.4215313368579347, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN22-36722"}
+{"p": 0.35714731471852573, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-25858"}
+{"p": 0.4437234235919542, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|EI17-25865"}
+{"p": 0.1580410725170214, "tokens": 419, "key": "drex_single|drex-max-v1.1|-|EI22-37600"}
+{"p": 0.06491489301923105, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN22-38046"}
+{"p": 0.5562765764080457, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-25092"}
+{"p": 0.6929254325352481, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN16-23382"}
+{"p": 0.567406373244714, "tokens": 259, "key": "drex_single|drex-max-v1.1|-|MN17-26689"}
+{"p": 0.5, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN18-27503"}
+{"p": 0.15211734629027088, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN16-23753"}
+{"p": 0.511301263830028, "tokens": 277, "key": "drex_single|drex-max-v1.1|-|MN17-25653"}
+{"p": 0.35714731471852573, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI15-20557"}
+{"p": 0.4105473756790161, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|EI16-23364"}
+{"p": 0.48869861696068595, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26989"}
+{"p": 0.511301383039314, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|EI17-26035"}
+{"p": 0.6111452761633777, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI16-23080"}
+{"p": 0.5225910855884007, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN19-30026"}
+{"p": 0.5338577628135681, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25531"}
+{"p": 0.1704486608505249, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|EI17-25655"}
+{"p": 0.6003481983930946, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN16-22614"}
+{"p": 0.4105473756790161, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN16-21917"}
+{"p": 0.37816558415191126, "tokens": 254, "key": "drex_single|drex-max-v1.1|-|EI19-30377"}
+{"p": 0.8230628020484091, "tokens": 447, "key": "drex_single|drex-max-v1.1|-|EI25-45935"}
+{"p": 0.4774090051651001, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN16-23053"}
+{"p": 0.4774089144115993, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI17-25500"}
+{"p": 0.48869873616997195, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN18-27475"}
+{"p": 0.5562765764080457, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN19-30479"}
+{"p": 0.17693719795159096, "tokens": 252, "key": "drex_single|drex-max-v1.1|-|EI17-26379"}
+{"p": 0.7558982259646323, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26496"}
+{"p": 0.8230628020484091, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|MN17-26398"}
+{"p": 0.6003481983930946, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN17-26128"}
+{"p": 0.6218344158480887, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|MN17-24561"}
+{"p": 0.43259352445602417, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI16-24119"}
+{"p": 0.5894526243209839, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN19-31136"}
+{"p": 0.6531649438640509, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN15-20872"}
+{"p": 0.5894526243209839, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|EI18-28304"}
+{"p": 0.43259362675528606, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN17-26001"}
+{"p": 0.6733565731857165, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN16-24265"}
+{"p": 0.24410177403536776, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-24260"}
+{"p": 0.32664342681428354, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI18-29778"}
+{"p": 0.4437234235919542, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN16-23530"}
+{"p": 0.1463772781733084, "tokens": 384, "key": "drex_single|drex-max-v1.1|-|EI20-33916"}
+{"p": 0.2881763193554783, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|EI18-27928"}
+{"p": 0.6531649438640509, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|MN15-20423"}
+{"p": 0.6003481983930946, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN15-20418"}
+{"p": 0.5338577628135681, "tokens": 263, "key": "drex_single|drex-max-v1.1|-|EI19-30046"}
+{"p": 0.5450900197029114, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN16-21413"}
+{"p": 0.32664334774017334, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|EI25-43875"}
+{"p": 0.511301263830028, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI19-30708"}
+{"p": 0.5225910855884007, "tokens": 267, "key": "drex_single|drex-max-v1.1|-|MN17-26653"}
+{"p": 0.4437234235919542, "tokens": 263, "key": "drex_single|drex-max-v1.1|-|EI16-22999"}
+{"p": 0.4105473756790161, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN22-37907"}
+{"p": 0.5450900197029114, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-26146"}
+{"p": 0.4549099802970886, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|EI21-34793"}
+{"p": 0.2278048626242619, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-26922"}
+{"p": 0.37816558415191126, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|EI16-23231"}
+{"p": 0.5894526243209839, "tokens": 258, "key": "drex_single|drex-max-v1.1|-|MN17-25937"}
+{"p": 0.24410169190319914, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN15-20170"}
+{"p": 0.48869873616997195, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-24933"}
+{"p": 0.6324065516116187, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN16-21386"}
+{"p": 0.5674064755439758, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN16-23997"}
+{"p": 0.6111451619180941, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN16-23028"}
+{"p": 0.511301383039314, "tokens": 312, "key": "drex_single|drex-max-v1.1|-|MN17-24922"}
+{"p": 0.5894526243209839, "tokens": 255, "key": "drex_single|drex-max-v1.1|-|MN16-23206"}
+{"p": 0.7024610042572021, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-25841"}
+{"p": 0.1580409909462338, "tokens": 401, "key": "drex_single|drex-max-v1.1|-|EI21-35289"}
+{"p": 0.4661422371864319, "tokens": 215, "key": "drex_single|drex-max-v1.1|-|MN18-27392"}
+{"p": 0.6003480732544683, "tokens": 291, "key": "drex_single|drex-max-v1.1|-|MN18-27628"}
+{"p": 0.46614234048552333, "tokens": 214, "key": "drex_single|drex-max-v1.1|-|MN16-24203"}
+{"p": 0.5894526243209839, "tokens": 275, "key": "drex_single|drex-max-v1.1|-|EI20-33839"}
+{"p": 0.6003481983930946, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-24916"}
+{"p": 0.5338576595144766, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-26710"}
+{"p": 0.25254034996032715, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI16-21860"}
+{"p": 0.4774090051651001, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|MN16-24013"}
+{"p": 0.8536227218266916, "tokens": 555, "key": "drex_single|drex-max-v1.1|-|EI23-40442"}
+{"p": 0.43259352445602417, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|MN17-26179"}
+{"p": 0.5674064755439758, "tokens": 217, "key": "drex_single|drex-max-v1.1|-|MN17-27271"}
+{"p": 0.3167779053217797, "tokens": 277, "key": "drex_single|drex-max-v1.1|-|MN22-36906"}
+{"p": 0.4774089144115993, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN17-25006"}
+{"p": 0.12519222497940063, "tokens": 400, "key": "drex_single|drex-max-v1.1|-|EI25-44254"}
+{"p": 0.5338576595144766, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26611"}
+{"p": 0.4437232878043227, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI22-37294"}
+{"p": 0.5562767121956773, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN18-27401"}
+{"p": 0.3571472572430151, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|MN20-34189"}
+{"p": 0.6832220946782203, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|MN17-24959"}
+{"p": 0.46614234048552333, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN18-27418"}
+{"p": 0.4215313368579347, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-26547"}
+{"p": 0.4215313368579347, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN15-21229"}
+{"p": 0.39965192674553174, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|EI16-23819"}
+{"p": 0.5894527259632133, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-24183"}
+{"p": 0.6733565731857165, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-25644"}
+{"p": 0.26998803824150674, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI17-26979"}
+{"p": 0.4215313368579347, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|EI18-29723"}
+{"p": 0.567406373244714, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-26810"}
+{"p": 0.5674064755439758, "tokens": 247, "key": "drex_single|drex-max-v1.1|-|MN17-24948"}
+{"p": 0.5450900197029114, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN17-25299"}
+{"p": 0.36759368680696747, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI15-21240"}
+{"p": 0.5784686631420654, "tokens": 245, "key": "drex_single|drex-max-v1.1|-|MN19-31234"}
+{"p": 0.1463772781733084, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN21-35723"}
+{"p": 0.5894526243209839, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-24142"}
+{"p": 0.29753899574279785, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|EI17-26464"}
+{"p": 0.5450900197029114, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI18-27547"}
+{"p": 0.5, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|EI18-27368"}
+{"p": 0.6733565731857165, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN16-23026"}
+{"p": 0.26998794078826904, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI17-25785"}
+{"p": 0.5, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI16-23654"}
+{"p": 0.511301263830028, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-21382"}
+{"p": 0.5784686631420654, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI16-23703"}
+{"p": 0.9377761166625058, "tokens": 366, "key": "drex_single|drex-max-v1.1|-|EI23-39861"}
+{"p": 0.5338577628135681, "tokens": 248, "key": "drex_single|drex-max-v1.1|-|MN17-26565"}
+{"p": 0.5562765764080457, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-25879"}
+{"p": 0.8230628020484091, "tokens": 607, "key": "drex_single|drex-max-v1.1|-|EI22-38130"}
+{"p": 0.6218344158480887, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26418"}
+{"p": 0.3468349770654745, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI16-23249"}
+{"p": 0.5, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI18-28260"}
+{"p": 0.511301383039314, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI15-21222"}
+{"p": 0.6218344158480887, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN16-23359"}
+{"p": 0.5338576595144766, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-25190"}
+{"p": 0.48869873616997195, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN21-35906"}
+{"p": 0.48869873616997195, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|EI17-26092"}
+{"p": 0.5, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-22820"}
+{"p": 0.14081762940909906, "tokens": 457, "key": "drex_single|drex-max-v1.1|-|EI22-38363"}
+{"p": 0.3167780245310657, "tokens": 244, "key": "drex_single|drex-max-v1.1|-|MN16-23951"}
+{"p": 0.1580410725170214, "tokens": 347, "key": "drex_single|drex-max-v1.1|-|EI22-37689"}
+{"p": 0.48869861696068595, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|EI17-26345"}
+{"p": 0.4549099802970886, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|EI17-26362"}
+{"p": 0.5674064755439758, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI18-27896"}
+{"p": 0.35714731471852573, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN15-20593"}
+{"p": 0.5, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|EI17-25932"}
+{"p": 0.38885472383662234, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN17-26903"}
+{"p": 0.21229054891197238, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI17-26061"}
+{"p": 0.4549099802970886, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN22-37506"}
+{"p": 0.1302284391122264, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-27060"}
+{"p": 0.43259362675528606, "tokens": 283, "key": "drex_single|drex-max-v1.1|-|EI18-29074"}
+{"p": 0.4774089144115993, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN16-23197"}
+{"p": 0.5225909948348999, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN17-25223"}
+{"p": 0.5450900197029114, "tokens": 271, "key": "drex_single|drex-max-v1.1|-|EI18-29062"}
+{"p": 0.29753899574279785, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-27161"}
+{"p": 0.24410169190319914, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN18-27529"}
+{"p": 0.2881763193554783, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN17-26056"}
+{"p": 0.5, "tokens": 267, "key": "drex_single|drex-max-v1.1|-|MN16-23144"}
+{"p": 0.5225910855884007, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN18-27742"}
+{"p": 0.5450901551571534, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN17-27178"}
+{"p": 0.5562767121956773, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN17-26133"}
+{"p": 0.5450900197029114, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|EI16-23846"}
+{"p": 0.4661422371864319, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN21-35907"}
+{"p": 0.6428527427569849, "tokens": 249, "key": "drex_single|drex-max-v1.1|-|MN18-27579"}
+{"p": 0.4215313368579347, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN23-39219"}
+{"p": 0.5338577628135681, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN17-25757"}
+{"p": 0.6218344158480887, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI17-26937"}
+{"p": 0.5338577628135681, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN16-21723"}
+{"p": 0.11561975886567888, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI18-27545"}
+{"p": 0.4215313368579347, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-25919"}
+{"p": 0.511301263830028, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN16-24006"}
+{"p": 0.5338577628135681, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|EI22-37231"}
+{"p": 0.511301263830028, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI16-23129"}
+{"p": 0.9165434309582667, "tokens": 410, "key": "drex_single|drex-max-v1.1|-|EI23-40221"}
+{"p": 0.23585599660873413, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN18-27310"}
+{"p": 0.4661422371864319, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN17-25595"}
+{"p": 0.5, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-26802"}
+{"p": 0.5562767121956773, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN17-25028"}
+{"p": 0.9322860379857725, "tokens": 318, "key": "drex_single|drex-max-v1.1|-|EI25-43627"}
+{"p": 0.4774090051651001, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|EI17-25784"}
+{"p": 0.3468350561359491, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN21-35201"}
+{"p": 0.5225910855884007, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN17-26566"}
+{"p": 0.36759344838838126, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|EI18-27337"}
+{"p": 0.48869873616997195, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN17-24580"}
+{"p": 0.18361793732073808, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-27116"}
+{"p": 0.511301263830028, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|MN18-27967"}
+{"p": 0.8796761566424656, "tokens": 877, "key": "drex_single|drex-max-v1.1|-|EI23-40094"}
+{"p": 0.4774089144115993, "tokens": 229, "key": "drex_single|drex-max-v1.1|-|MN17-25624"}
+{"p": 0.511301383039314, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN17-27109"}
+{"p": 0.19049260658803852, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI16-24238"}
+{"p": 0.6003481983930946, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN16-22533"}
+{"p": 0.4437234235919542, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-27024"}
+{"p": 0.4549099802970886, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN22-36920"}
+{"p": 0.4774089144115993, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN16-22915"}
+{"p": 0.14081769342317024, "tokens": 326, "key": "drex_single|drex-max-v1.1|-|EI24-43347"}
+{"p": 0.307074448255466, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI18-28233"}
+{"p": 0.6003480732544683, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|MN15-20903"}
+{"p": 0.6733565731857165, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI17-25214"}
+{"p": 0.5784686631420654, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI17-25746"}
+{"p": 0.3571472572430151, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26187"}
+{"p": 0.33666467666625977, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN17-24378"}
+{"p": 0.25254034996032715, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|EI17-24546"}
+{"p": 0.09837330059429034, "tokens": 334, "key": "drex_single|drex-max-v1.1|-|EI22-38225"}
+{"p": 0.20482826232910156, "tokens": 469, "key": "drex_single|drex-max-v1.1|-|EI23-38545"}
+{"p": 0.2789914393124413, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|EI18-29518"}
+{"p": 0.43259352445602417, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|EI17-25896"}
+{"p": 0.46614234048552333, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|MN16-23634"}
+{"p": 0.5562765764080457, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN17-26586"}
+{"p": 0.28817641735076904, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN21-34852"}
+{"p": 0.33666467666625977, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI17-25622"}
+{"p": 0.4774089144115993, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN17-26351"}
+{"p": 0.3070746660232544, "tokens": 240, "key": "drex_single|drex-max-v1.1|-|MN16-23584"}
+{"p": 0.5562765764080457, "tokens": 228, "key": "drex_single|drex-max-v1.1|-|EI15-20459"}
+{"p": 0.261169970035553, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN16-23271"}
+{"p": 0.5894526243209839, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN16-23041"}
+{"p": 0.07365045170934355, "tokens": 392, "key": "drex_single|drex-max-v1.1|-|EI23-39890"}
+{"p": 0.5338577628135681, "tokens": 241, "key": "drex_single|drex-max-v1.1|-|MN18-27583"}
+{"p": 0.33666467666625977, "tokens": 217, "key": "drex_single|drex-max-v1.1|-|EI16-21986"}
+{"p": 0.6218344158480887, "tokens": 250, "key": "drex_single|drex-max-v1.1|-|MN17-26391"}
+{"p": 0.346835196018219, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN17-24602"}
+{"p": 0.4661422371864319, "tokens": 248, "key": "drex_single|drex-max-v1.1|-|MN17-26431"}
+{"p": 0.8163820030746163, "tokens": 261, "key": "drex_single|drex-max-v1.1|-|MN17-26384"}
+{"p": 0.6929254325352481, "tokens": 265, "key": "drex_single|drex-max-v1.1|-|MN17-26341"}
+{"p": 0.38885472383662234, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI17-25066"}
+{"p": 0.43259352445602417, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN25-44137"}
+{"p": 0.36759356759767436, "tokens": 218, "key": "drex_single|drex-max-v1.1|-|MN18-27858"}
+{"p": 0.29753899574279785, "tokens": 314, "key": "drex_single|drex-max-v1.1|-|EI25-44238"}
+{"p": 0.36759344838838126, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN17-25954"}
+{"p": 0.26117005165904605, "tokens": 759, "key": "drex_single|drex-max-v1.1|-|EI22-37083"}
+{"p": 0.4774089144115993, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN17-24422"}
+{"p": 0.4774089144115993, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-26338"}
+{"p": 0.26998803824150674, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|EI17-26156"}
+{"p": 0.0800626620626948, "tokens": 363, "key": "drex_single|drex-max-v1.1|-|EI25-43930"}
+{"p": 0.4661422371864319, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN17-26460"}
+{"p": 0.5784686631420654, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|MN17-26249"}
+{"p": 0.26998803824150674, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN17-26918"}
+{"p": 0.13022837430919332, "tokens": 426, "key": "drex_single|drex-max-v1.1|-|EI24-41090"}
+{"p": 0.6218344158480887, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|MN17-26191"}
+{"p": 0.16415066772474843, "tokens": 253, "key": "drex_single|drex-max-v1.1|-|MN17-26189"}
+{"p": 0.5894527259632133, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN17-25454"}
+{"p": 0.4437232878043227, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN16-22905"}
+{"p": 0.38885472383662234, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN18-28338"}
+{"p": 0.26998803824150674, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|EI17-26726"}
+{"p": 0.43259362675528606, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN16-22518"}
+{"p": 0.4774089144115993, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN22-37456"}
+{"p": 0.5450901551571534, "tokens": 251, "key": "drex_single|drex-max-v1.1|-|MN18-29837"}
+{"p": 0.5, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI18-27323"}
+{"p": 0.5894526243209839, "tokens": 249, "key": "drex_single|drex-max-v1.1|-|MN17-27066"}
+{"p": 0.5784686631420654, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN16-24026"}
+{"p": 0.6111452761633777, "tokens": 221, "key": "drex_single|drex-max-v1.1|-|MN16-23181"}
+{"p": 0.6003481983930946, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|MN18-27445"}
+{"p": 0.5562765764080457, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN17-27046"}
+{"p": 0.5338577628135681, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN17-24915"}
+{"p": 0.4774090051651001, "tokens": 217, "key": "drex_single|drex-max-v1.1|-|MN17-25584"}
+{"p": 0.5450900197029114, "tokens": 220, "key": "drex_single|drex-max-v1.1|-|MN17-24886"}
+{"p": 0.8230628020484091, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN24-43317"}
+{"p": 0.5338577628135681, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-26060"}
+{"p": 0.511301383039314, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|MN21-36139"}
+{"p": 0.18361793732073808, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI18-27783"}
+{"p": 0.12519217283679085, "tokens": 515, "key": "drex_single|drex-max-v1.1|-|EI24-40699"}
+{"p": 0.3996518016069054, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-26744"}
+{"p": 0.5450901551571534, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN20-33714"}
+{"p": 0.3167780245310657, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|EI18-29265"}
+{"p": 0.33666467666625977, "tokens": 328, "key": "drex_single|drex-max-v1.1|-|MN18-27584"}
+{"p": 0.9518483671185822, "tokens": 358, "key": "drex_single|drex-max-v1.1|-|EI24-41102"}
+{"p": 0.2278048626242619, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-26659"}
+{"p": 0.32664342681428354, "tokens": 219, "key": "drex_single|drex-max-v1.1|-|MN16-24344"}
+{"p": 0.11561985830753409, "tokens": 642, "key": "drex_single|drex-max-v1.1|-|EI23-39960"}
+{"p": 0.3070746660232544, "tokens": 234, "key": "drex_single|drex-max-v1.1|-|MN18-27526"}
+{"p": 0.3167780245310657, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|MN17-24994"}
+{"p": 0.4549099802970886, "tokens": 224, "key": "drex_single|drex-max-v1.1|-|MN16-23419"}
+{"p": 0.38885472383662234, "tokens": 259, "key": "drex_single|drex-max-v1.1|-|MN21-36654"}
+{"p": 0.4105473756790161, "tokens": 305, "key": "drex_single|drex-max-v1.1|-|MN16-24310"}
+{"p": 0.5562767121956773, "tokens": 246, "key": "drex_single|drex-max-v1.1|-|MN17-26907"}
+{"p": 0.36759356759767436, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|EI17-26228"}
+{"p": 0.6324064324023256, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|EI18-28436"}
+{"p": 0.5450900197029114, "tokens": 237, "key": "drex_single|drex-max-v1.1|-|MN16-21828"}
+{"p": 0.5784686631420654, "tokens": 249, "key": "drex_single|drex-max-v1.1|-|MN21-34769"}
+{"p": 0.43259352445602417, "tokens": 276, "key": "drex_single|drex-max-v1.1|-|MN15-21190"}
+{"p": 0.5, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN17-24644"}
+{"p": 0.6111452761633777, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-27102"}
+{"p": 0.2278048626242619, "tokens": 262, "key": "drex_single|drex-max-v1.1|-|EI17-24988"}
+{"p": 0.9350850860799874, "tokens": 409, "key": "drex_single|drex-max-v1.1|-|EI24-41183"}
+{"p": 0.38885472383662234, "tokens": 238, "key": "drex_single|drex-max-v1.1|-|EI19-30474"}
+{"p": 0.23585610443139232, "tokens": 225, "key": "drex_single|drex-max-v1.1|-|MN17-25878"}
+{"p": 0.5674064755439758, "tokens": 283, "key": "drex_single|drex-max-v1.1|-|EI19-30688"}
+{"p": 0.780050421652924, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|MN17-26329"}
+{"p": 0.511301383039314, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|MN17-25554"}
+{"p": 0.5450900197029114, "tokens": 223, "key": "drex_single|drex-max-v1.1|-|EI17-26758"}
+{"p": 0.2881763193554783, "tokens": 239, "key": "drex_single|drex-max-v1.1|-|EI18-27295"}
+{"p": 0.4549099802970886, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-26403"}
+{"p": 0.5338577628135681, "tokens": 253, "key": "drex_single|drex-max-v1.1|-|MN17-26100"}
+{"p": 0.6633353233337402, "tokens": 243, "key": "drex_single|drex-max-v1.1|-|MN16-23660"}
+{"p": 0.4215313368579347, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN21-36246"}
+{"p": 0.5450900197029114, "tokens": 236, "key": "drex_single|drex-max-v1.1|-|MN17-26470"}
+{"p": 0.35714731471852573, "tokens": 233, "key": "drex_single|drex-max-v1.1|-|EI17-26120"}
+{"p": 0.48869861696068595, "tokens": 235, "key": "drex_single|drex-max-v1.1|-|MN18-28206"}
+{"p": 0.6003480732544683, "tokens": 266, "key": "drex_single|drex-max-v1.1|-|MN19-31310"}
+{"p": 0.4215313368579347, "tokens": 222, "key": "drex_single|drex-max-v1.1|-|EI17-27226"}
+{"p": 0.23585599660873413, "tokens": 230, "key": "drex_single|drex-max-v1.1|-|MN19-30382"}
+{"p": 0.5338577628135681, "tokens": 266, "key": "drex_single|drex-max-v1.1|-|EI18-28421"}
+{"p": 0.5338577628135681, "tokens": 226, "key": "drex_single|drex-max-v1.1|-|MN17-26519"}
+{"p": 0.5562765764080457, "tokens": 231, "key": "drex_single|drex-max-v1.1|-|MN17-26244"}
+{"p": 0.4774089144115993, "tokens": 266, "key": "drex_single|drex-max-v1.1|-|EI16-22885"}
+{"p": 0.5, "tokens": 242, "key": "drex_single|drex-max-v1.1|-|EI21-36314"}
+{"p": 0.14637724001339794, "tokens": 227, "key": "drex_single|drex-max-v1.1|-|EI17-24379"}
+{"p": 0.6832220946782203, "tokens": 254, "key": "drex_single|drex-max-v1.1|-|MN17-26050"}
+{"p": 0.6428527427569849, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|MN17-25999"}
+{"p": 0.3571472572430151, "tokens": 418, "key": "drex_single|drex-max-v1.1|-|EI25-44979"}
+{"p": 0.4437234235919542, "tokens": 232, "key": "drex_single|drex-max-v1.1|-|EI16-23389"}
+{"p": 0.18361799692538375, "tokens": 578, "key": "drex_single|drex-max-v1.1|-|EI23-39966"}
+{"p": 0.47266480420578233, "p_chair": 0.09837334004600853, "blended": true, "tokens": 4826, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26306"}
+{"p": 0.29830665949526397, "p_chair": 0.09063903582219619, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26750"}
+{"p": 0.2802615090753562, "p_chair": 0.06091770361460497, "blended": true, "tokens": 6340, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39942"}
+{"p": 0.7982931109967911, "p_chair": 0.6832219754689343, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22364"}
+{"p": 0.39282611384270955, "p_chair": 0.03795275563623492, "blended": true, "tokens": 7317, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37514"}
+{"p": 0.37885941695208464, "p_chair": 0.8843801950102986, "blended": true, "tokens": 4599, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|UR18-28603"}
+{"p": 0.4103035871330845, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25125"}
+{"p": 0.6527927048283456, "p_chair": 0.09443523523728768, "blended": true, "tokens": 4956, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-34629"}
+{"p": 0.37710376351786673, "p_chair": 0.7210086584091187, "blended": true, "tokens": 4687, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30989"}
+{"p": 0.417555029876211, "p_chair": 0.7558983080968009, "blended": true, "tokens": 4606, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27384"}
+{"p": 0.5248609907876375, "p_chair": 0.859182370590901, "blended": true, "tokens": 7649, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44328"}
+{"p": 0.4008278892339186, "p_chair": 0.07679522037506104, "blended": true, "tokens": 4891, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35601"}
+{"p": 0.5134095532372516, "p_chair": 0.13543575194860982, "blended": true, "tokens": 4634, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35835"}
+{"p": 0.419991855323716, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4545, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26401"}
+{"p": 0.47535687248267117, "p_chair": 0.15211746549956398, "blended": true, "tokens": 4877, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26684"}
+{"p": 0.11739374548589954, "p_chair": 0.08345656904173321, "blended": true, "tokens": 6492, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-35141"}
+{"p": 0.22135167720708343, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4593, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27597"}
+{"p": 0.35807320908206797, "p_chair": 0.1110765006794222, "blended": true, "tokens": 4712, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23808"}
+{"p": 0.6327919850699705, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4469, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25081"}
+{"p": 0.43769741398700535, "p_chair": 0.3167779053217797, "blended": true, "tokens": 4530, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25079"}
+{"p": 0.7525393448231191, "p_chair": 0.9293753920216289, "blended": true, "tokens": 6826, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44661"}
+{"p": 0.7439189437122026, "p_chair": 0.6832220946782203, "blended": true, "tokens": 4875, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23531"}
+{"p": 0.5026128474312322, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4473, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26886"}
+{"p": 0.3944905368008617, "p_chair": 0.06630071499573868, "blended": true, "tokens": 4732, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29916"}
+{"p": 0.526592124692861, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25129"}
+{"p": 0.3667027395252471, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4458, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24135"}
+{"p": 0.782740508185837, "p_chair": 0.77219505268626, "blended": true, "tokens": 5142, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30786"}
+{"p": 0.43801112805862685, "p_chair": 0.13543575194860982, "blended": true, "tokens": 4716, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27515"}
+{"p": 0.43939096978896786, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4606, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-27196"}
+{"p": 0.7484201730532376, "p_chair": 0.7210085606875587, "blended": true, "tokens": 4745, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23683"}
+{"p": 0.4901524771543041, "p_chair": 0.21229054891197238, "blended": true, "tokens": 4535, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25377"}
+{"p": 0.7637850431590796, "p_chair": 0.05476350648592964, "blended": true, "tokens": 4580, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-34962"}
+{"p": 0.7691561010145104, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4753, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24281"}
+{"p": 0.49645496074673073, "p_chair": 0.1975623608361971, "blended": true, "tokens": 4586, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27726"}
+{"p": 0.6603942496900808, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4545, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24221"}
+{"p": 0.6895849542241886, "p_chair": 0.8295514111153992, "blended": true, "tokens": 4491, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24360"}
+{"p": 0.6586293614554183, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4545, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23302"}
+{"p": 0.4554205266385313, "p_chair": 0.14637724001339794, "blended": true, "tokens": 4557, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25742"}
+{"p": 0.3826089523340262, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4610, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24430"}
+{"p": 0.30004573552566555, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4747, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23872"}
+{"p": 0.18978199519110162, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4576, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24130"}
+{"p": 0.22262766136922107, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4634, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24917"}
+{"p": 0.251688441020373, "p_chair": 0.08345663547515869, "blended": true, "tokens": 7103, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-36676"}
+{"p": 0.35779610665069916, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4712, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25803"}
+{"p": 0.35492027561578654, "p_chair": 0.12032390296217871, "blended": true, "tokens": 5386, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30599"}
+{"p": 0.22427060408229088, "p_chair": 0.08006269902317892, "blended": true, "tokens": 6080, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39943"}
+{"p": 0.2622513140258078, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4465, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23719"}
+{"p": 0.43094391453077496, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4760, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24007"}
+{"p": 0.2863612773328409, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4574, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26349"}
+{"p": 0.4646408972711927, "p_chair": 0.08006269902317892, "blended": true, "tokens": 4516, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24185"}
+{"p": 0.5932988593218071, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21568"}
+{"p": 0.8863493338540914, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4757, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25063"}
+{"p": 0.37761965157376487, "p_chair": 0.7558983080968009, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25802"}
+{"p": 0.3091296088084121, "p_chair": 0.13022837430919332, "blended": true, "tokens": 5007, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30618"}
+{"p": 0.7142252236759514, "p_chair": 0.711823582649231, "blended": true, "tokens": 4854, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26608"}
+{"p": 0.41015642545382, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4714, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27784"}
+{"p": 0.5519755601506517, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4482, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27300"}
+{"p": 0.364759211238906, "p_chair": 0.07679522037506104, "blended": true, "tokens": 4511, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26964"}
+{"p": 0.36691166668479624, "p_chair": 0.8748077750205994, "blended": true, "tokens": 5917, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN25-44251"}
+{"p": 0.7593496949184988, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4709, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26773"}
+{"p": 0.5452842022916654, "p_chair": 0.09443532745864486, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25534"}
+{"p": 0.3397937387822611, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4551, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23470"}
+{"p": 0.41357597368450255, "p_chair": 0.7877095459060304, "blended": true, "tokens": 4586, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26261"}
+{"p": 0.47933503809411565, "p_chair": 0.8295512693852943, "blended": true, "tokens": 4517, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24010"}
+{"p": 0.3679142205994976, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4790, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26553"}
+{"p": 0.48740706695977387, "p_chair": 0.094435280229764, "blended": true, "tokens": 4757, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26170"}
+{"p": 0.41416035291399955, "p_chair": 0.6832219754689343, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27145"}
+{"p": 0.3581575731601902, "p_chair": 0.77219505268626, "blended": true, "tokens": 4625, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26113"}
+{"p": 0.6903350845180724, "p_chair": 0.8645642480513902, "blended": true, "tokens": 4572, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25979"}
+{"p": 0.31455876590178516, "p_chair": 0.8843801416924659, "blended": true, "tokens": 4735, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23487"}
+{"p": 0.38138116870938576, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4472, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-27231"}
+{"p": 0.8935985083661357, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4617, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26419"}
+{"p": 0.7990876724533675, "p_chair": 0.6733565731857165, "blended": true, "tokens": 4819, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23406"}
+{"p": 0.3436231791044767, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4585, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22815"}
+{"p": 0.4129866719086117, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4853, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25823"}
+{"p": 0.637384742977449, "p_chair": 0.8796761566424656, "blended": true, "tokens": 6342, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-41659"}
+{"p": 0.3384532303459356, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27626"}
+{"p": 0.7115297409414667, "p_chair": 0.307074567464752, "blended": true, "tokens": 4647, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35190"}
+{"p": 0.4479136781077156, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4769, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28822"}
+{"p": 0.8589395303406807, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4691, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25089"}
+{"p": 0.3769548121968913, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4593, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26344"}
+{"p": 0.4238670110808196, "p_chair": 0.738829948340954, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25059"}
+{"p": 0.6489691808096587, "p_chair": 0.08345663547515869, "blended": true, "tokens": 4868, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-32343"}
+{"p": 0.3601409133048201, "p_chair": 0.8163820626792619, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26980"}
+{"p": 0.7592528153345554, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4669, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35674"}
+{"p": 0.28028842173269286, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4691, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25409"}
+{"p": 0.622247058047262, "p_chair": 0.28817641735076904, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25736"}
+{"p": 0.21088328757333913, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4660, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27983"}
+{"p": 0.5677007065015446, "p_chair": 0.08698077370255032, "blended": true, "tokens": 4539, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23843"}
+{"p": 0.5744440513682741, "p_chair": 0.9497332330693764, "blended": true, "tokens": 6778, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-46172"}
+{"p": 0.38986993699552225, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4540, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25694"}
+{"p": 0.23132647094124473, "p_chair": 0.6218344158480887, "blended": true, "tokens": 4501, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22392"}
+{"p": 0.8079218586905502, "p_chair": 0.8536227599866021, "blended": true, "tokens": 5459, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-43249"}
+{"p": 0.4153128585844108, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4920, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26367"}
+{"p": 0.3892435535307417, "p_chair": 0.8095073934119615, "blended": true, "tokens": 4702, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24318"}
+{"p": 0.7857863712707426, "p_chair": 0.738830029964447, "blended": true, "tokens": 4764, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28035"}
+{"p": 0.8598210836730374, "p_chair": 0.09837334004600853, "blended": true, "tokens": 4547, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24296"}
+{"p": 0.369107666481944, "p_chair": 0.8095073345156709, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27780"}
+{"p": 0.7724989777212868, "p_chair": 0.6929254325352481, "blended": true, "tokens": 4830, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23317"}
+{"p": 0.29925814130395545, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4599, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26725"}
+{"p": 0.20195937439205958, "p_chair": 0.12519227154839443, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26243"}
+{"p": 0.28079863075744543, "p_chair": 0.7877095459060304, "blended": true, "tokens": 4674, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27431"}
+{"p": 0.45952459316898703, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4575, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26161"}
+{"p": 0.25768134184026575, "p_chair": 0.07365047931671143, "blended": true, "tokens": 6296, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-33878"}
+{"p": 0.5479104039203919, "p_chair": 0.8697716256908067, "blended": true, "tokens": 4632, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN25-44153"}
+{"p": 0.46547352189418434, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4569, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25285"}
+{"p": 0.426750134949427, "p_chair": 0.8163820030746163, "blended": true, "tokens": 5130, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28594"}
+{"p": 0.7886948385162634, "p_chair": 0.7210085606875587, "blended": true, "tokens": 4819, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27210"}
+{"p": 0.8150468596979591, "p_chair": 0.09837326028843449, "blended": true, "tokens": 4569, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23689"}
+{"p": 0.26869068257131556, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4605, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23873"}
+{"p": 0.7306784039840957, "p_chair": 0.859182370590901, "blended": true, "tokens": 6375, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-42118"}
+{"p": 0.4159945620225123, "p_chair": 0.8358492504313365, "blended": true, "tokens": 4595, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23948"}
+{"p": 0.17367034913221116, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4572, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24409"}
+{"p": 0.21640484280501485, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25244"}
+{"p": 0.5505676456709034, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26497"}
+{"p": 0.731542454674515, "p_chair": 0.7877093797456005, "blended": true, "tokens": 6329, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-43339"}
+{"p": 0.606639332786778, "p_chair": 0.07679525476711785, "blended": true, "tokens": 4658, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-36957"}
+{"p": 0.4617093490711906, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4716, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28825"}
+{"p": 0.7919416128123477, "p_chair": 0.730012059211731, "blended": true, "tokens": 4830, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23983"}
+{"p": 0.18689064801505792, "p_chair": 0.044172487165648776, "blended": true, "tokens": 5832, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-45359"}
+{"p": 0.32704400379855136, "p_chair": 0.0547634818369669, "blended": true, "tokens": 7476, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36517"}
+{"p": 0.5910130862542381, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26152"}
+{"p": 0.6292939968954513, "p_chair": 0.8358493918798955, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25248"}
+{"p": 0.7350769680474462, "p_chair": 0.8358493918798955, "blended": true, "tokens": 6802, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39928"}
+{"p": 0.319787384943653, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23043"}
+{"p": 0.7459073482192086, "p_chair": 0.8230628020484091, "blended": true, "tokens": 4658, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-36687"}
+{"p": 0.3997624722069282, "p_chair": 0.09443532745864486, "blended": true, "tokens": 4649, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28468"}
+{"p": 0.3504264274186667, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4579, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26589"}
+{"p": 0.4202660899995772, "p_chair": 0.07365045170934355, "blended": true, "tokens": 4666, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28000"}
+{"p": 0.5316956252720426, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4628, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24120"}
+{"p": 0.4109629690441786, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4614, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27119"}
+{"p": 0.47279421433730184, "p_chair": 0.11107640133679222, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-36073"}
+{"p": 0.38472566289186605, "p_chair": 0.12032384335753438, "blended": true, "tokens": 4760, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26582"}
+{"p": 0.5213539862119079, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4648, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24524"}
+{"p": 0.6821335589471046, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4887, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25088"}
+{"p": 0.3675450524306028, "p_chair": 0.7210085606875587, "blended": true, "tokens": 4656, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23142"}
+{"p": 0.4820908345705971, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4567, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26164"}
+{"p": 0.2345859944393921, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4512, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27443"}
+{"p": 0.3577141772114425, "p_chair": 0.094435280229764, "blended": true, "tokens": 4527, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26075"}
+{"p": 0.3742575094792445, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27104"}
+{"p": 0.304549372091097, "p_chair": 0.094435280229764, "blended": true, "tokens": 4533, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26834"}
+{"p": 0.310080291623938, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4923, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28122"}
+{"p": 0.17374236772126747, "p_chair": 0.09443532745864486, "blended": true, "tokens": 5645, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-41977"}
+{"p": 0.5822027851383239, "p_chair": 0.77219505268626, "blended": true, "tokens": 4704, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27070"}
+{"p": 0.7615044004977582, "p_chair": 0.859182370590901, "blended": true, "tokens": 6056, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37515"}
+{"p": 0.4403657001358937, "p_chair": 0.10669004887499244, "blended": true, "tokens": 4482, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26429"}
+{"p": 0.5797049804467971, "p_chair": 0.8358493322752516, "blended": true, "tokens": 4517, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26135"}
+{"p": 0.3837144999337284, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4669, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27219"}
+{"p": 0.20181932670809236, "p_chair": 0.07365047931671143, "blended": true, "tokens": 7099, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37121"}
+{"p": 0.6531411850980221, "p_chair": 0.8645641932571559, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25558"}
+{"p": 0.7311409360303871, "p_chair": 0.738830029964447, "blended": true, "tokens": 4557, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-39101"}
+{"p": 0.5040203213800158, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4736, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24585"}
+{"p": 0.4362152654526126, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20560"}
+{"p": 0.3648807847444909, "p_chair": 0.8748078271632092, "blended": true, "tokens": 5063, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-34703"}
+{"p": 0.29763923874420045, "p_chair": 0.08345660133125637, "blended": true, "tokens": 5023, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-39458"}
+{"p": 0.39047405966992055, "p_chair": 0.8419590090537662, "blended": true, "tokens": 4471, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26481"}
+{"p": 0.46061791187322837, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4612, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26489"}
+{"p": 0.5115365079550921, "p_chair": 0.8933098648976484, "blended": true, "tokens": 4880, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26500"}
+{"p": 0.617677278135538, "p_chair": 0.8697716671364506, "blended": true, "tokens": 4517, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26628"}
+{"p": 0.4412268875663118, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26996"}
+{"p": 0.192015794622093, "p_chair": 0.1580409909462338, "blended": true, "tokens": 4867, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-29816"}
+{"p": 0.81297205323004, "p_chair": 0.7024610042572021, "blended": true, "tokens": 4951, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27233"}
+{"p": 0.449092620725293, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24179"}
+{"p": 0.3905192433769541, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4590, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23304"}
+{"p": 0.7625682311755752, "p_chair": 0.8095073934119615, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-38552"}
+{"p": 0.5823365688438432, "p_chair": 0.08698080091264244, "blended": true, "tokens": 4525, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-35017"}
+{"p": 0.6724399241730535, "p_chair": 0.9093609641778038, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35442"}
+{"p": 0.752884903395207, "p_chair": 0.9093609641778038, "blended": true, "tokens": 6419, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-35063"}
+{"p": 0.37309726899208495, "p_chair": 0.09063906695301435, "blended": true, "tokens": 4681, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26336"}
+{"p": 0.22580044568208094, "p_chair": 0.0547634818369669, "blended": true, "tokens": 6079, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44227"}
+{"p": 0.49876336991585074, "p_chair": 0.8645642480513902, "blended": true, "tokens": 4615, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38270"}
+{"p": 0.4029789428999582, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4762, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25095"}
+{"p": 0.42725600120646545, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4714, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27335"}
+{"p": 0.6864301720108144, "p_chair": 0.8095073934119615, "blended": true, "tokens": 4568, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26619"}
+{"p": 0.705967164355844, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4600, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22147"}
+{"p": 0.36165109572575765, "p_chair": 0.7558983789652103, "blended": true, "tokens": 4495, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24496"}
+{"p": 0.6858153925541363, "p_chair": 0.6003480732544683, "blended": true, "tokens": 4548, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-36043"}
+{"p": 0.2059803857878312, "p_chair": 0.07062460797837114, "blended": true, "tokens": 4646, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24289"}
+{"p": 0.522199414241353, "p_chair": 0.730012059211731, "blended": true, "tokens": 4705, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24140"}
+{"p": 0.8858787949623961, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26443"}
+{"p": 0.3776569240273117, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4755, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26247"}
+{"p": 0.3682254754991686, "p_chair": 0.7721951373757381, "blended": true, "tokens": 4641, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27034"}
+{"p": 0.146784554938688, "p_chair": 0.094435280229764, "blended": true, "tokens": 5090, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30742"}
+{"p": 0.412414796973634, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4682, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25164"}
+{"p": 0.3561338407453312, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24415"}
+{"p": 0.6129128765375689, "p_chair": 0.7024610042572021, "blended": true, "tokens": 4546, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21514"}
+{"p": 0.3354214229426395, "p_chair": 0.5784686631420654, "blended": true, "tokens": 4582, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26141"}
+{"p": 0.4109911091973523, "p_chair": 0.09837334004600853, "blended": true, "tokens": 4538, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26304"}
+{"p": 0.6814595508366442, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21328"}
+{"p": 0.38394978950191005, "p_chair": 0.15211739682801376, "blended": true, "tokens": 4495, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23539"}
+{"p": 0.5385784797185235, "p_chair": 0.5450900197029114, "blended": true, "tokens": 4600, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25147"}
+{"p": 0.46871340501395525, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4679, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28357"}
+{"p": 0.3765041569946033, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4683, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25594"}
+{"p": 0.46742516414877716, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4542, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26372"}
+{"p": 0.2814654726400829, "p_chair": 0.6428527427569849, "blended": true, "tokens": 4744, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27971"}
+{"p": 0.45293948843134935, "p_chair": 0.77219505268626, "blended": true, "tokens": 4579, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24393"}
+{"p": 0.4816471151493342, "p_chair": 0.8697716256908067, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25673"}
+{"p": 0.5889809520131889, "p_chair": 0.8478826031719863, "blended": true, "tokens": 4670, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30602"}
+{"p": 0.4668624767087922, "p_chair": 0.1463772781733084, "blended": true, "tokens": 4507, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26432"}
+{"p": 0.2420344198340723, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4540, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24533"}
+{"p": 0.6945065528712403, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4623, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27405"}
+{"p": 0.7820448959618198, "p_chair": 0.8536227599866021, "blended": true, "tokens": 11468, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38202"}
+{"p": 0.6441609766650468, "p_chair": 0.9322860171475558, "blended": true, "tokens": 5543, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30449"}
+{"p": 0.2853782714573599, "p_chair": 0.6003480732544683, "blended": true, "tokens": 4572, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21924"}
+{"p": 0.5139547180389321, "p_chair": 0.1580409909462338, "blended": true, "tokens": 4440, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27063"}
+{"p": 0.2942689508677409, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4773, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23642"}
+{"p": 0.4033891955384928, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4548, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27715"}
+{"p": 0.4179039317403008, "p_chair": 0.07062460797837114, "blended": true, "tokens": 4472, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30600"}
+{"p": 0.6951916624104258, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26910"}
+{"p": 0.4624428959445991, "p_chair": 0.07365041532215981, "blended": true, "tokens": 4900, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24304"}
+{"p": 0.7420550623857377, "p_chair": 0.730012059211731, "blended": true, "tokens": 4687, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27527"}
+{"p": 0.33245869786040705, "p_chair": 0.738829948340954, "blended": true, "tokens": 4544, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23274"}
+{"p": 0.45421455311108316, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4525, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-31295"}
+{"p": 0.40330557041576426, "p_chair": 0.1580409909462338, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23064"}
+{"p": 0.1464753829519084, "p_chair": 0.05715158752058707, "blended": true, "tokens": 7737, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38086"}
+{"p": 0.6107894490129347, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4776, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-34411"}
+{"p": 0.5541271375054858, "p_chair": 0.8697716256908067, "blended": true, "tokens": 4482, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26098"}
+{"p": 0.44718724766439205, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4446, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26837"}
+{"p": 0.5493303782142078, "p_chair": 0.09837326028843449, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26984"}
+{"p": 0.5871264453426618, "p_chair": 0.8889234993205778, "blended": true, "tokens": 4577, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27620"}
+{"p": 0.8705370814329315, "p_chair": 0.8024375676019087, "blended": true, "tokens": 5043, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24276"}
+{"p": 0.4367275516868543, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4867, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27106"}
+{"p": 0.37181665920810625, "p_chair": 0.8095073345156709, "blended": true, "tokens": 4624, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21680"}
+{"p": 0.22820642438947053, "p_chair": 0.12519217283679085, "blended": true, "tokens": 4511, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24369"}
+{"p": 0.8163023423510883, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4547, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25083"}
+{"p": 0.19677133287385465, "p_chair": 0.09837326028843449, "blended": true, "tokens": 7528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36603"}
+{"p": 0.43594904129315154, "p_chair": 0.6733565731857165, "blended": true, "tokens": 4492, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26159"}
+{"p": 0.3760084501792973, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28041"}
+{"p": 0.6794654082857374, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4658, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-37388"}
+{"p": 0.5983175893547091, "p_chair": 0.7951717376708984, "blended": true, "tokens": 4694, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28127"}
+{"p": 0.2706216768415969, "p_chair": 0.07679522037506104, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24444"}
+{"p": 0.766552525719334, "p_chair": 0.8095073934119615, "blended": true, "tokens": 6311, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-35619"}
+{"p": 0.5908466809116629, "p_chair": 0.32664334774017334, "blended": true, "tokens": 4605, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25204"}
+{"p": 0.3928305935560253, "p_chair": 0.09837330059429034, "blended": true, "tokens": 4468, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26112"}
+{"p": 0.2997527831869175, "p_chair": 0.6531649438640509, "blended": true, "tokens": 4579, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22118"}
+{"p": 0.44350301105532675, "p_chair": 0.7951717376708984, "blended": true, "tokens": 4547, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25379"}
+{"p": 0.2818305295101789, "p_chair": 0.11107645432076874, "blended": true, "tokens": 5372, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-31215"}
+{"p": 0.4131434337678566, "p_chair": 0.16415066772474843, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26321"}
+{"p": 0.5824719568108044, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-27143"}
+{"p": 0.11149430461106487, "p_chair": 0.04230238686363638, "blended": true, "tokens": 4855, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30583"}
+{"p": 0.3468119271755681, "p_chair": 0.12519217283679085, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27017"}
+{"p": 0.6131206468922996, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4678, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22800"}
+{"p": 0.5352995417772116, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4965, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27186"}
+{"p": 0.32683969844942806, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4653, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27042"}
+{"p": 0.3549337589711462, "p_chair": 0.8889235456792313, "blended": true, "tokens": 4643, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|UR17-25542"}
+{"p": 0.4485614821751314, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4619, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30450"}
+{"p": 0.3796032208374109, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23652"}
+{"p": 0.5356900597170882, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4525, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23253"}
+{"p": 0.3466648110455478, "p_chair": 0.15211746549956398, "blended": true, "tokens": 4778, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24308"}
+{"p": 0.32790620810812626, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4642, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25669"}
+{"p": 0.6166977000728787, "p_chair": 0.14081762940909906, "blended": true, "tokens": 4582, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28394"}
+{"p": 0.24247429627328576, "p_chair": 0.12519227154839443, "blended": true, "tokens": 4518, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23335"}
+{"p": 0.46565295833508336, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4705, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27627"}
+{"p": 0.7088836153907112, "p_chair": 0.8591823065768297, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24480"}
+{"p": 0.3423858400640498, "p_chair": 0.6428527427569849, "blended": true, "tokens": 4520, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26225"}
+{"p": 0.5691678533114493, "p_chair": 0.8697716671364506, "blended": true, "tokens": 8309, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-34826"}
+{"p": 0.5103285226076218, "p_chair": 0.10245699301105696, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-34546"}
+{"p": 0.4034131375079133, "p_chair": 0.1110765006794222, "blended": true, "tokens": 4854, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35421"}
+{"p": 0.17692397360325826, "p_chair": 0.06771401758280318, "blended": true, "tokens": 6752, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36156"}
+{"p": 0.7949986882081259, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4885, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26404"}
+{"p": 0.28088825873929535, "p_chair": 0.0800626620626948, "blended": true, "tokens": 6387, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39618"}
+{"p": 0.5062110886309698, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4579, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26525"}
+{"p": 0.49659794497946236, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4693, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23852"}
+{"p": 0.2518621034158745, "p_chair": 0.07062457186171836, "blended": true, "tokens": 6021, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-33977"}
+{"p": 0.2964049889079734, "p_chair": 0.7300118586417479, "blended": true, "tokens": 4588, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27675"}
+{"p": 0.38923221804166264, "p_chair": 0.14081769342317024, "blended": true, "tokens": 4513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24068"}
+{"p": 0.561219861606262, "p_chair": 0.17044873061470572, "blended": true, "tokens": 4497, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25848"}
+{"p": 0.8431560077973278, "p_chair": 0.8478826031719863, "blended": true, "tokens": 6414, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN20-33852"}
+{"p": 0.3222032170829634, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4562, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27302"}
+{"p": 0.6400290109059249, "p_chair": 0.8975430593260667, "blended": true, "tokens": 4588, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-38721"}
+{"p": 0.17035969346456364, "p_chair": 0.07062457186171836, "blended": true, "tokens": 4614, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25901"}
+{"p": 0.28102680184002476, "p_chair": 0.15211739682801376, "blended": true, "tokens": 5044, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25922"}
+{"p": 0.22540345751671909, "p_chair": 0.06630071499573868, "blended": true, "tokens": 6244, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36622"}
+{"p": 0.47637917261282064, "p_chair": 0.0800626620626948, "blended": true, "tokens": 4548, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN25-43598"}
+{"p": 0.23007681646042527, "p_chair": 0.14081762940909906, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25288"}
+{"p": 0.43961533680637704, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4463, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24207"}
+{"p": 0.45827597248170804, "p_chair": 0.13543575194860982, "blended": true, "tokens": 4597, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26799"}
+{"p": 0.6744866616783245, "p_chair": 0.8645641932571559, "blended": true, "tokens": 7010, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-31452"}
+{"p": 0.34994906773054035, "p_chair": 0.7558983789652103, "blended": true, "tokens": 4702, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27518"}
+{"p": 0.5339218989780051, "p_chair": 0.08345663547515869, "blended": true, "tokens": 4637, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-22715"}
+{"p": 0.742511263162272, "p_chair": 0.37816558415191126, "blended": true, "tokens": 4546, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22714"}
+{"p": 0.7504142685006064, "p_chair": 0.1975624323980913, "blended": true, "tokens": 4602, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24672"}
+{"p": 0.7233101173732507, "p_chair": 0.738830029964447, "blended": true, "tokens": 4656, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24855"}
+{"p": 0.7479564515931064, "p_chair": 0.905564719770236, "blended": true, "tokens": 6791, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37303"}
+{"p": 0.4439050495708901, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4716, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24660"}
+{"p": 0.6850223874234733, "p_chair": 0.7558982259646323, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28077"}
+{"p": 0.7148980600032041, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4823, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24685"}
+{"p": 0.5921967688062035, "p_chair": 0.8536227218266916, "blended": true, "tokens": 5172, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30710"}
+{"p": 0.8873221292831701, "p_chair": 0.29753899574279785, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35311"}
+{"p": 0.7807628776808605, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24437"}
+{"p": 0.2732078966434906, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4607, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25597"}
+{"p": 0.7791248511617963, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4511, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27085"}
+{"p": 0.4721891186065834, "p_chair": 0.12519217283679085, "blended": true, "tokens": 4575, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24386"}
+{"p": 0.30478332947915643, "p_chair": 0.06491494875464626, "blended": true, "tokens": 4648, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28499"}
+{"p": 0.4143420273687045, "p_chair": 0.12032384335753438, "blended": true, "tokens": 4595, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25984"}
+{"p": 0.712456751942874, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4566, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26921"}
+{"p": 0.36196099607421206, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24058"}
+{"p": 0.7414414874049409, "p_chair": 0.24410169190319914, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28258"}
+{"p": 0.44472651610967306, "p_chair": 0.08345656904173321, "blended": true, "tokens": 4692, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27875"}
+{"p": 0.4424187863843336, "p_chair": 0.7474595531064139, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23646"}
+{"p": 0.46287254366275693, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4540, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-27363"}
+{"p": 0.32770321138591596, "p_chair": 0.7951717976352723, "blended": true, "tokens": 4568, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24946"}
+{"p": 0.42278170686274186, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4843, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30606"}
+{"p": 0.3862150322379877, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27766"}
+{"p": 0.6529513013056408, "p_chair": 0.8163819422494207, "blended": true, "tokens": 4637, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23387"}
+{"p": 0.4414073381122951, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23062"}
+{"p": 0.7991256508413669, "p_chair": 0.738829948340954, "blended": true, "tokens": 4753, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27568"}
+{"p": 0.8711518076963591, "p_chair": 0.7558983080968009, "blended": true, "tokens": 4691, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26485"}
+{"p": 0.11820283460166443, "p_chair": 0.08698080091264244, "blended": true, "tokens": 5695, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-40284"}
+{"p": 0.2076360690547925, "p_chair": 0.0800626620626948, "blended": true, "tokens": 4635, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28462"}
+{"p": 0.23120638287483095, "p_chair": 0.07365045170934355, "blended": true, "tokens": 7037, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39938"}
+{"p": 0.4623155203211751, "p_chair": 0.7951717376708984, "blended": true, "tokens": 5118, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26331"}
+{"p": 0.7903725540186286, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23366"}
+{"p": 0.1699611686667007, "p_chair": 0.10669004887499244, "blended": true, "tokens": 7336, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23826"}
+{"p": 0.6785995446969342, "p_chair": 0.9093609641778038, "blended": true, "tokens": 8958, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-40309"}
+{"p": 0.5519025148314808, "p_chair": 0.8591823065768297, "blended": true, "tokens": 4549, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28541"}
+{"p": 0.7676615734879153, "p_chair": 0.7641440629959106, "blended": true, "tokens": 5017, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25643"}
+{"p": 0.8052879361688118, "p_chair": 0.8358493322752516, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN25-44322"}
+{"p": 0.1813277123346571, "p_chair": 0.09837334004600853, "blended": true, "tokens": 4540, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26333"}
+{"p": 0.21043874108287766, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26469"}
+{"p": 0.676909292077128, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4588, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35802"}
+{"p": 0.5378320761578689, "p_chair": 0.8478826031719863, "blended": true, "tokens": 4808, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27054"}
+{"p": 0.3385981427683872, "p_chair": 0.05715156293389739, "blended": true, "tokens": 5330, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36496"}
+{"p": 0.26334301451195746, "p_chair": 0.39965192674553174, "blended": true, "tokens": 5074, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-37785"}
+{"p": 0.8119034087815886, "p_chair": 0.7210087609892345, "blended": true, "tokens": 4874, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25012"}
+{"p": 0.7978392033413392, "p_chair": 0.6733565731857165, "blended": true, "tokens": 5006, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25444"}
+{"p": 0.47952158261560246, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24797"}
+{"p": 0.36221356607895944, "p_chair": 0.8748077284516056, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|UR18-27480"}
+{"p": 0.7295527529735201, "p_chair": 0.7558983080968009, "blended": true, "tokens": 6011, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25516"}
+{"p": 0.41841769044856697, "p_chair": 0.12519217283679085, "blended": true, "tokens": 4557, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26388"}
+{"p": 0.5200787980474304, "p_chair": 0.8748077284516056, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-31103"}
+{"p": 0.42113222392456523, "p_chair": 0.6832220946782203, "blended": true, "tokens": 4544, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25220"}
+{"p": 0.34462490762896797, "p_chair": 0.9199373379373051, "blended": true, "tokens": 4473, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25474"}
+{"p": 0.5673156844380558, "p_chair": 0.13022833286354943, "blended": true, "tokens": 4764, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26166"}
+{"p": 0.8090393777654757, "p_chair": 0.6832219754689343, "blended": true, "tokens": 5105, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27376"}
+{"p": 0.37702030613191334, "p_chair": 0.15211746549956398, "blended": true, "tokens": 4503, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26713"}
+{"p": 0.45910000891301217, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4703, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25865"}
+{"p": 0.284306573990245, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4748, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-36722"}
+{"p": 0.32592544199676887, "p_chair": 0.13543575194860982, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25858"}
+{"p": 0.24906317097946748, "p_chair": 0.062223883337494235, "blended": true, "tokens": 6670, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37600"}
+{"p": 0.245313483343407, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4577, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-38046"}
+{"p": 0.6104822117111675, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4605, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23382"}
+{"p": 0.8644315986823266, "p_chair": 0.7721951373757381, "blended": true, "tokens": 4922, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26689"}
+{"p": 0.5703731702571716, "p_chair": 0.7210085606875587, "blended": true, "tokens": 4524, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27503"}
+{"p": 0.35247279630406453, "p_chair": 0.09443532745864486, "blended": true, "tokens": 4623, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23753"}
+{"p": 0.7983875782482219, "p_chair": 0.7300119617584933, "blended": true, "tokens": 5116, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25653"}
+{"p": 0.5388339014875939, "p_chair": 0.07365047931671143, "blended": true, "tokens": 4650, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI15-20557"}
+{"p": 0.4717191533666411, "p_chair": 0.1580410725170214, "blended": true, "tokens": 4824, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23364"}
+{"p": 0.538482682338835, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4485, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26035"}
+{"p": 0.6098070960855254, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26989"}
+{"p": 0.5704625958539633, "p_chair": 0.77219505268626, "blended": true, "tokens": 4637, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23080"}
+{"p": 0.601755123141712, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4471, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25092"}
+{"p": 0.46054956546512, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30026"}
+{"p": 0.6844964594839342, "p_chair": 0.7951717376708984, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25531"}
+{"p": 0.3675140779748897, "p_chair": 0.08698080091264244, "blended": true, "tokens": 4529, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25655"}
+{"p": 0.37427741946753595, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21917"}
+{"p": 0.39212786057315624, "p_chair": 0.09837326028843449, "blended": true, "tokens": 4855, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30377"}
+{"p": 0.5732643717233975, "p_chair": 0.8295512693852943, "blended": true, "tokens": 6980, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-45935"}
+{"p": 0.6726380806373614, "p_chair": 0.7024610042572021, "blended": true, "tokens": 4621, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23053"}
+{"p": 0.44447443217363625, "p_chair": 0.13543575194860982, "blended": true, "tokens": 4615, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25500"}
+{"p": 0.6926069392827539, "p_chair": 0.738830029964447, "blended": true, "tokens": 4701, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30479"}
+{"p": 0.7815485452955907, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4555, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24265"}
+{"p": 0.7875267952606319, "p_chair": 0.77219505268626, "blended": true, "tokens": 4687, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27475"}
+{"p": 0.6129266775875681, "p_chair": 0.9199372598524187, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26496"}
+{"p": 0.2600138248895958, "p_chair": 0.094435280229764, "blended": true, "tokens": 4837, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26379"}
+{"p": 0.6634665770922253, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4548, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26128"}
+{"p": 0.516223140613372, "p_chair": 0.8645642480513902, "blended": true, "tokens": 4882, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26398"}
+{"p": 0.7648478963108905, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4753, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22614"}
+{"p": 0.42850434126259906, "p_chair": 0.14637724001339794, "blended": true, "tokens": 4635, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24119"}
+{"p": 0.7541196414525418, "p_chair": 0.6929254325352481, "blended": true, "tokens": 4522, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20872"}
+{"p": 0.47937341093482266, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4817, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28304"}
+{"p": 0.4606747899896477, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4516, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26001"}
+{"p": 0.639886139450992, "p_chair": 0.1580409909462338, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24260"}
+{"p": 0.37915643666006804, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4604, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29778"}
+{"p": 0.46217423426373233, "p_chair": 0.1463771716839918, "blended": true, "tokens": 4590, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23530"}
+{"p": 0.18910522991344397, "p_chair": 0.0536049639671856, "blended": true, "tokens": 6285, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-33916"}
+{"p": 0.29690956055579915, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4824, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27928"}
+{"p": 0.8018545621105932, "p_chair": 0.26998803824150674, "blended": true, "tokens": 4591, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20418"}
+{"p": 0.5298668157177393, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4880, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20423"}
+{"p": 0.56622172276673, "p_chair": 0.5450900197029114, "blended": true, "tokens": 4956, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30046"}
+{"p": 0.6484406902329396, "p_chair": 0.8933099045352624, "blended": true, "tokens": 4535, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-31136"}
+{"p": 0.39968611122531905, "p_chair": 0.09063903582219619, "blended": true, "tokens": 4661, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-43875"}
+{"p": 0.48635150512384895, "p_chair": 0.6111452761633777, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30708"}
+{"p": 0.5191784885513355, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4956, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-22999"}
+{"p": 0.8966755053207764, "p_chair": 0.24410169190319914, "blended": true, "tokens": 4471, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-37907"}
+{"p": 0.6109117385769814, "p_chair": 0.10669009546473765, "blended": true, "tokens": 5014, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26653"}
+{"p": 0.45882966069360304, "p_chair": 0.7951717976352723, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26146"}
+{"p": 0.6236504284958004, "p_chair": 0.6733566522598267, "blended": true, "tokens": 4626, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-34793"}
+{"p": 0.3404346498428018, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26922"}
+{"p": 0.5620628373906819, "p_chair": 0.09063903582219619, "blended": true, "tokens": 4496, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23231"}
+{"p": 0.8700679563667918, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4911, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25937"}
+{"p": 0.31308991331044445, "p_chair": 0.08698080091264244, "blended": true, "tokens": 4665, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20170"}
+{"p": 0.2829966372785079, "p_chair": 0.7558982259646323, "blended": true, "tokens": 4545, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24933"}
+{"p": 0.880330737935898, "p_chair": 0.7951717976352723, "blended": true, "tokens": 4735, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24561"}
+{"p": 0.6690687888712806, "p_chair": 0.7721951373757381, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21413"}
+{"p": 0.7279251045860111, "p_chair": 0.6003481983930946, "blended": true, "tokens": 4566, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21386"}
+{"p": 0.6369784486973379, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23997"}
+{"p": 0.8749183090127605, "p_chair": 0.8163820626792619, "blended": true, "tokens": 4680, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23028"}
+{"p": 0.3787383041817725, "p_chair": 0.9199373009768211, "blended": true, "tokens": 4547, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25841"}
+{"p": 0.2557338601773247, "p_chair": 0.730012059211731, "blended": true, "tokens": 5507, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24922"}
+{"p": 0.773520148765031, "p_chair": 0.7300118586417479, "blended": true, "tokens": 4874, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23206"}
+{"p": 0.15709654977738402, "p_chair": 0.10245699301105696, "blended": true, "tokens": 6468, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-35289"}
+{"p": 0.5167594866770105, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4429, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24203"}
+{"p": 0.47284649202206563, "p_chair": 0.738829948340954, "blended": true, "tokens": 5096, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI20-33839"}
+{"p": 0.652585281892242, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4566, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24916"}
+{"p": 0.3319762175074273, "p_chair": 0.8419589274829786, "blended": true, "tokens": 4513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26710"}
+{"p": 0.27787647171836616, "p_chair": 0.08345660133125637, "blended": true, "tokens": 4635, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-21860"}
+{"p": 0.3369105942624141, "p_chair": 0.4774089144115993, "blended": true, "tokens": 4733, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24013"}
+{"p": 0.6476894615705007, "p_chair": 0.9055647647627123, "blended": true, "tokens": 8168, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-40442"}
+{"p": 0.23907257387637834, "p_chair": 0.738830029964447, "blended": true, "tokens": 4700, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26179"}
+{"p": 0.3582566683438299, "p_chair": 0.8419590090537662, "blended": true, "tokens": 4458, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27271"}
+{"p": 0.5874027556235463, "p_chair": 0.1110765006794222, "blended": true, "tokens": 5118, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-36906"}
+{"p": 0.31141849027541296, "p_chair": 0.09837326028843449, "blended": true, "tokens": 4533, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25006"}
+{"p": 0.6910783070057082, "p_chair": 0.1463772781733084, "blended": true, "tokens": 5274, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27628"}
+{"p": 0.6140876999906467, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4538, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26611"}
+{"p": 0.6580528180945244, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4722, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN20-34189"}
+{"p": 0.8636006400628368, "p_chair": 0.17044873061470572, "blended": true, "tokens": 4572, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37294"}
+{"p": 0.49462647247006997, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27401"}
+{"p": 0.5280745497820893, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4823, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24959"}
+{"p": 0.37505454372823793, "p_chair": 0.9016266994057096, "blended": true, "tokens": 4469, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26547"}
+{"p": 0.22853986232765075, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27418"}
+{"p": 0.5610623439300624, "p_chair": 0.8295512693852943, "blended": true, "tokens": 4451, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24183"}
+{"p": 0.3129645800259568, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4546, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-21229"}
+{"p": 0.5043896213848456, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4749, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23819"}
+{"p": 0.693404950257199, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4726, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29723"}
+{"p": 0.20778006545955996, "p_chair": 0.06491491392001253, "blended": true, "tokens": 6461, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44254"}
+{"p": 0.4108435510407968, "p_chair": 0.8697715608877736, "blended": true, "tokens": 4438, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27392"}
+{"p": 0.6493592084244708, "p_chair": 0.8163820626792619, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25644"}
+{"p": 0.40438906355353266, "p_chair": 0.09837334004600853, "blended": true, "tokens": 4593, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26979"}
+{"p": 0.7882281038399375, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4786, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24948"}
+{"p": 0.6907081279828854, "p_chair": 0.77219505268626, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26810"}
+{"p": 0.7363939747846294, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4665, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25299"}
+{"p": 0.25412979343333064, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4599, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35723"}
+{"p": 0.441005577240366, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24142"}
+{"p": 0.5046929426987495, "p_chair": 0.10245699301105696, "blended": true, "tokens": 4492, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26464"}
+{"p": 0.6166328824237742, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4605, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27547"}
+{"p": 0.418481523154073, "p_chair": 0.15211734629027088, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27368"}
+{"p": 0.5279914723441879, "p_chair": 0.738830029964447, "blended": true, "tokens": 4614, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23026"}
+{"p": 0.4842867146479829, "p_chair": 0.07679525476711785, "blended": true, "tokens": 4670, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25785"}
+{"p": 0.4479679552928483, "p_chair": 0.1580409909462338, "blended": true, "tokens": 4571, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23654"}
+{"p": 0.2982166594852945, "p_chair": 0.6633353233337402, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21382"}
+{"p": 0.390489378259507, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4644, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23703"}
+{"p": 0.7104534591949616, "p_chair": 0.8975430593260667, "blended": true, "tokens": 6087, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39861"}
+{"p": 0.5600643998936282, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4615, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI15-21240"}
+{"p": 0.5543717437646023, "p_chair": 0.859182370590901, "blended": true, "tokens": 4768, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-31234"}
+{"p": 0.7500470208807394, "p_chair": 0.8748077750205994, "blended": true, "tokens": 8704, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38130"}
+{"p": 0.4244579539413903, "p_chair": 0.8358493322752516, "blended": true, "tokens": 4599, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26418"}
+{"p": 0.42684416613518394, "p_chair": 0.15211739682801376, "blended": true, "tokens": 4681, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23249"}
+{"p": 0.4263358910797129, "p_chair": 0.8358493918798955, "blended": true, "tokens": 4668, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28260"}
+{"p": 0.5807122679033802, "p_chair": 0.8536227218266916, "blended": true, "tokens": 4681, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI15-21222"}
+{"p": 0.4506154703280767, "p_chair": 0.7558983080968009, "blended": true, "tokens": 4612, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23359"}
+{"p": 0.4215308640667743, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4564, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25190"}
+{"p": 0.40595835934118035, "p_chair": 0.7641440629959106, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26092"}
+{"p": 0.3580909074932984, "p_chair": 0.6111452761633777, "blended": true, "tokens": 4598, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35906"}
+{"p": 0.8073386192403589, "p_chair": 0.738829948340954, "blended": true, "tokens": 4797, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26565"}
+{"p": 0.6359250946633513, "p_chair": 0.7877095459060304, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25879"}
+{"p": 0.12478320426724777, "p_chair": 0.09063906695301435, "blended": true, "tokens": 7058, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38363"}
+{"p": 0.21533237995701043, "p_chair": 0.09837330059429034, "blended": true, "tokens": 4753, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23951"}
+{"p": 0.3300318443645065, "p_chair": 0.07679522037506104, "blended": true, "tokens": 5874, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37689"}
+{"p": 0.39151887919656914, "p_chair": 0.7877095459060304, "blended": true, "tokens": 4498, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26345"}
+{"p": 0.5084434708662227, "p_chair": 0.8478826031719863, "blended": true, "tokens": 4637, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27896"}
+{"p": 0.4641476883847927, "p_chair": 0.11561975886567888, "blended": true, "tokens": 4579, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20593"}
+{"p": 0.6115096212046512, "p_chair": 0.1302284391122264, "blended": true, "tokens": 4725, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25932"}
+{"p": 0.228740632978518, "p_chair": 0.14637724001339794, "blended": true, "tokens": 4638, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26903"}
+{"p": 0.2066654058923755, "p_chair": 0.10245699301105696, "blended": true, "tokens": 4604, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26061"}
+{"p": 0.6618356043820958, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-37506"}
+{"p": 0.40953314899562787, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4577, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22820"}
+{"p": 0.20491840175108927, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4483, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27060"}
+{"p": 0.4145847410075167, "p_chair": 0.12032384335753438, "blended": true, "tokens": 5174, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29074"}
+{"p": 0.5187817516600013, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4621, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23197"}
+{"p": 0.37381618390894, "p_chair": 0.7474595531064139, "blended": true, "tokens": 4711, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25223"}
+{"p": 0.4719995962423839, "p_chair": 0.1110765006794222, "blended": true, "tokens": 5046, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29062"}
+{"p": 0.5783396336334423, "p_chair": 0.15211746549956398, "blended": true, "tokens": 4690, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26362"}
+{"p": 0.25918003896883385, "p_chair": 0.12519217283679085, "blended": true, "tokens": 4678, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27529"}
+{"p": 0.48926234246049166, "p_chair": 0.738829948340954, "blended": true, "tokens": 5006, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23144"}
+{"p": 0.19085833360365423, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4507, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26056"}
+{"p": 0.33298321479243015, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4549, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27742"}
+{"p": 0.5572392987651075, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4711, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27178"}
+{"p": 0.8677944950035474, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4658, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26133"}
+{"p": 0.7880921126227515, "p_chair": 0.7641438955686077, "blended": true, "tokens": 4592, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35907"}
+{"p": 0.36829844941811757, "p_chair": 0.1302284391122264, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27310"}
+{"p": 0.47366967916250874, "p_chair": 0.8295514111153992, "blended": true, "tokens": 4562, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23846"}
+{"p": 0.7714018883183587, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN23-39219"}
+{"p": 0.8387263019489504, "p_chair": 0.8478826031719863, "blended": true, "tokens": 4814, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27579"}
+{"p": 0.5644100040869785, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4556, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27161"}
+{"p": 0.4394534304135612, "p_chair": 0.847882534500436, "blended": true, "tokens": 4646, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26937"}
+{"p": 0.40199981015573716, "p_chair": 0.05963723795517783, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27545"}
+{"p": 0.4157815738709807, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4612, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25919"}
+{"p": 0.5718873190715636, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24006"}
+{"p": 0.7431556213608941, "p_chair": 0.8095073345156709, "blended": true, "tokens": 4712, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37231"}
+{"p": 0.7753853245859561, "p_chair": 0.8419590090537662, "blended": true, "tokens": 6573, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-40221"}
+{"p": 0.8479104368616609, "p_chair": 0.20482826232910156, "blended": true, "tokens": 4569, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23129"}
+{"p": 0.5055367469719902, "p_chair": 0.7210086584091187, "blended": true, "tokens": 4546, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25595"}
+{"p": 0.3691266362849406, "p_chair": 0.6633353233337402, "blended": true, "tokens": 4569, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26802"}
+{"p": 0.8863406502629628, "p_chair": 0.8230628020484091, "blended": true, "tokens": 4647, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25028"}
+{"p": 0.6996271743688174, "p_chair": 0.28817641735076904, "blended": true, "tokens": 4484, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25784"}
+{"p": 0.5121723860442113, "p_chair": 0.7024611025315195, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25757"}
+{"p": 0.556421821921923, "p_chair": 0.8358493918798955, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21723"}
+{"p": 0.7083063405037897, "p_chair": 0.08698080091264244, "blended": true, "tokens": 4625, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-35201"}
+{"p": 0.5241427721095575, "p_chair": 0.738830029964447, "blended": true, "tokens": 4744, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26566"}
+{"p": 0.4014924106033189, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4738, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27337"}
+{"p": 0.4244384763644398, "p_chair": 0.07365045170934355, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27116"}
+{"p": 0.5159066112392792, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4504, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24580"}
+{"p": 0.3830441791493102, "p_chair": 0.7721951373757381, "blended": true, "tokens": 4724, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27967"}
+{"p": 0.805430758018872, "p_chair": 0.8095073345156709, "blended": true, "tokens": 11710, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-40094"}
+{"p": 0.6006094725178251, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4590, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25624"}
+{"p": 0.4062445989747859, "p_chair": 0.09063903582219619, "blended": true, "tokens": 4683, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-24238"}
+{"p": 0.8388096547525599, "p_chair": 0.847882534500436, "blended": true, "tokens": 5561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-43627"}
+{"p": 0.8213187620872366, "p_chair": 0.6531649438640509, "blended": true, "tokens": 4643, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22533"}
+{"p": 0.516900622972285, "p_chair": 0.7210086584091187, "blended": true, "tokens": 4538, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27024"}
+{"p": 0.15687244202870732, "p_chair": 0.6832220946782203, "blended": true, "tokens": 4715, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-36920"}
+{"p": 0.24595247742336346, "p_chair": 0.8095072507858276, "blended": true, "tokens": 4632, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22915"}
+{"p": 0.20038963944595947, "p_chair": 0.04230237111769501, "blended": true, "tokens": 5647, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-43347"}
+{"p": 0.4502048535085815, "p_chair": 0.09837330059429034, "blended": true, "tokens": 4646, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28233"}
+{"p": 0.7564967588103095, "p_chair": 0.8163820626792619, "blended": true, "tokens": 4830, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-20903"}
+{"p": 0.6810593361570683, "p_chair": 0.8358492504313365, "blended": true, "tokens": 4637, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25214"}
+{"p": 0.5163076060206998, "p_chair": 0.3167779053217797, "blended": true, "tokens": 4666, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25746"}
+{"p": 0.39172165668331743, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4538, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26187"}
+{"p": 0.5826852067021147, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4583, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27109"}
+{"p": 0.835006405830713, "p_chair": 0.094435280229764, "blended": true, "tokens": 4624, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24546"}
+{"p": 0.3507630022020348, "p_chair": 0.06771398285244418, "blended": true, "tokens": 7224, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-38545"}
+{"p": 0.49532101990261596, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4562, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25896"}
+{"p": 0.2651069172721206, "p_chair": 0.10669009546473765, "blended": true, "tokens": 5707, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-38225"}
+{"p": 0.31817515888824005, "p_chair": 0.12032390296217871, "blended": true, "tokens": 4692, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29518"}
+{"p": 0.3543901608001701, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4581, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23634"}
+{"p": 0.7193044837423245, "p_chair": 0.7474595531064139, "blended": true, "tokens": 4636, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26586"}
+{"p": 0.625161066413119, "p_chair": 0.11561975886567888, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-34852"}
+{"p": 0.3549764157036295, "p_chair": 0.6111452761633777, "blended": true, "tokens": 4541, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI15-20459"}
+{"p": 0.3788427857731118, "p_chair": 0.8478826031719863, "blended": true, "tokens": 4471, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26351"}
+{"p": 0.39852239954240753, "p_chair": 0.14081762940909906, "blended": true, "tokens": 4642, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24378"}
+{"p": 0.44532168636725455, "p_chair": 0.07365045170934355, "blended": true, "tokens": 4711, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23584"}
+{"p": 0.31041873746857085, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4544, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23271"}
+{"p": 0.15325967641932903, "p_chair": 0.05715158752058707, "blended": true, "tokens": 6375, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39890"}
+{"p": 0.4373781749920305, "p_chair": 0.7951717976352723, "blended": true, "tokens": 4688, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27583"}
+{"p": 0.604060728820541, "p_chair": 0.8163819422494207, "blended": true, "tokens": 4625, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23041"}
+{"p": 0.5980779568568877, "p_chair": 0.905564719770236, "blended": true, "tokens": 4823, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26391"}
+{"p": 0.6442280589009217, "p_chair": 0.094435280229764, "blended": true, "tokens": 4480, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24602"}
+{"p": 0.31211927003558304, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4444, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-21986"}
+{"p": 0.17603568100560354, "p_chair": 0.7118236806445217, "blended": true, "tokens": 4803, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26431"}
+{"p": 0.46470955306129674, "p_chair": 0.8889235986632078, "blended": true, "tokens": 4944, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26384"}
+{"p": 0.5135632121880603, "p_chair": 0.1463772781733084, "blended": true, "tokens": 4613, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25066"}
+{"p": 0.5885206288918158, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4920, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26341"}
+{"p": 0.7367002901884228, "p_chair": 0.859182370590901, "blended": true, "tokens": 4469, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27858"}
+{"p": 0.42408079971319634, "p_chair": 0.04712607532138686, "blended": true, "tokens": 5513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44238"}
+{"p": 0.6449405420185875, "p_chair": 0.14081762940909906, "blended": true, "tokens": 4667, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25954"}
+{"p": 0.2146856117465828, "p_chair": 0.09063903582219619, "blended": true, "tokens": 10412, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI22-37083"}
+{"p": 0.38575544406148926, "p_chair": 0.8095073345156709, "blended": true, "tokens": 4513, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24422"}
+{"p": 0.5485552235931983, "p_chair": 0.730012059211731, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26338"}
+{"p": 0.5075246044805073, "p_chair": 0.10669013510235158, "blended": true, "tokens": 4569, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-25622"}
+{"p": 0.39706704385105696, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4600, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26156"}
+{"p": 0.18662190179300753, "p_chair": 0.03795275563623492, "blended": true, "tokens": 6056, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-43930"}
+{"p": 0.2918020781592961, "p_chair": 0.14081762940909906, "blended": true, "tokens": 4663, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26918"}
+{"p": 0.5189800970229074, "p_chair": 0.8295513391494751, "blended": true, "tokens": 4537, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26460"}
+{"p": 0.546756505699175, "p_chair": 0.7300119617584933, "blended": true, "tokens": 4693, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26249"}
+{"p": 0.7718214871555378, "p_chair": 0.8419590090537662, "blended": true, "tokens": 4528, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN25-44137"}
+{"p": 0.7628669409503867, "p_chair": 0.738830029964447, "blended": true, "tokens": 4731, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26191"}
+{"p": 0.2970049128714262, "p_chair": 0.09063906695301435, "blended": true, "tokens": 4856, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26189"}
+{"p": 0.6008422078717034, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4568, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25454"}
+{"p": 0.7443798672872942, "p_chair": 0.19049260658803852, "blended": true, "tokens": 4661, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22905"}
+{"p": 0.19240917105090416, "p_chair": 0.14637724001339794, "blended": true, "tokens": 4649, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28338"}
+{"p": 0.33958854969921887, "p_chair": 0.09837326028843449, "blended": true, "tokens": 4538, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26726"}
+{"p": 0.45366176418998627, "p_chair": 0.4215313368579347, "blended": true, "tokens": 4481, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-22518"}
+{"p": 0.5651608551353194, "p_chair": 0.738829948340954, "blended": true, "tokens": 4834, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-29837"}
+{"p": 0.6271730881469412, "p_chair": 0.5674064755439758, "blended": true, "tokens": 4615, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27323"}
+{"p": 0.8089566743176861, "p_chair": 0.7474595531064139, "blended": true, "tokens": 4808, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27066"}
+{"p": 0.2457338475914502, "p_chair": 0.04815165415688705, "blended": true, "tokens": 6715, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-41090"}
+{"p": 0.8864372657957179, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4658, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24026"}
+{"p": 0.7298054276514412, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4500, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23181"}
+{"p": 0.8900778682637998, "p_chair": 0.7558982259646323, "blended": true, "tokens": 4702, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27445"}
+{"p": 0.4322055207381055, "p_chair": 0.8697716256908067, "blended": true, "tokens": 4603, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27046"}
+{"p": 0.4201927074556083, "p_chair": 0.7877094510880276, "blended": true, "tokens": 4460, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25584"}
+{"p": 0.6571296045647388, "p_chair": 0.8163819422494207, "blended": true, "tokens": 4493, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24886"}
+{"p": 0.6346931180341924, "p_chair": 0.8697716256908067, "blended": true, "tokens": 4616, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN24-43317"}
+{"p": 0.7793009596785369, "p_chair": 0.8024374960400167, "blended": true, "tokens": 4482, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN22-37456"}
+{"p": 0.39227397506927314, "p_chair": 0.77219505268626, "blended": true, "tokens": 4576, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26060"}
+{"p": 0.22978840618025032, "p_chair": 0.08006269902317892, "blended": true, "tokens": 4639, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27783"}
+{"p": 0.7635919601218502, "p_chair": 0.8163820626792619, "blended": true, "tokens": 4515, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-36139"}
+{"p": 0.44357475983343575, "p_chair": 0.10669004887499244, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26744"}
+{"p": 0.34574501555341147, "p_chair": 0.10669009546473765, "blended": true, "tokens": 4641, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-29265"}
+{"p": 0.6535669467654988, "p_chair": 0.702460905982879, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN20-33714"}
+{"p": 0.5896612669084431, "p_chair": 0.14081769342317024, "blended": true, "tokens": 5647, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27584"}
+{"p": 0.32715589022550406, "p_chair": 0.8024375676019087, "blended": true, "tokens": 4742, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24915"}
+{"p": 0.5105849598666365, "p_chair": 0.11107645432076874, "blended": true, "tokens": 4559, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26659"}
+{"p": 0.7428954343446329, "p_chair": 0.8843801950102986, "blended": true, "tokens": 6001, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-41102"}
+{"p": 0.18970493751313536, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4448, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24344"}
+{"p": 0.2352213160937912, "p_chair": 0.05360500979993441, "blended": true, "tokens": 9121, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39960"}
+{"p": 0.3702643554788766, "p_chair": 0.10245694067393332, "blended": true, "tokens": 4647, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-27526"}
+{"p": 0.11876882170641168, "p_chair": 0.08698077370255032, "blended": true, "tokens": 7722, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-40699"}
+{"p": 0.4375251370743635, "p_chair": 0.8419590090537662, "blended": true, "tokens": 4539, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23419"}
+{"p": 0.45017057880186845, "p_chair": 0.10245699301105696, "blended": true, "tokens": 5426, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-24310"}
+{"p": 0.7384182581435118, "p_chair": 0.738829948340954, "blended": true, "tokens": 4775, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26907"}
+{"p": 0.2795734163073481, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4648, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26228"}
+{"p": 0.5935692524150832, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4674, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28436"}
+{"p": 0.2858649786160689, "p_chair": 0.7474596500396729, "blended": true, "tokens": 4678, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-21828"}
+{"p": 0.3291446955202518, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4810, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-34769"}
+{"p": 0.6081887287746665, "p_chair": 0.8889235986632078, "blended": true, "tokens": 6530, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI24-41183"}
+{"p": 0.45315819471034396, "p_chair": 0.18361793732073808, "blended": true, "tokens": 4660, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24644"}
+{"p": 0.680211885416937, "p_chair": 0.1110765006794222, "blended": true, "tokens": 5111, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN15-21190"}
+{"p": 0.45956242322367896, "p_chair": 0.1580410725170214, "blended": true, "tokens": 4636, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-24994"}
+{"p": 0.5882960630864553, "p_chair": 0.8591822513816096, "blended": true, "tokens": 4602, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-27102"}
+{"p": 0.8005565413051562, "p_chair": 0.8536227599866021, "blended": true, "tokens": 4997, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-31310"}
+{"p": 0.4554471001340903, "p_chair": 0.13022837430919332, "blended": true, "tokens": 4681, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30474"}
+{"p": 0.3718979752322098, "p_chair": 0.11561985830753409, "blended": true, "tokens": 4540, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25878"}
+{"p": 0.36512396289985627, "p_chair": 0.7474595531064139, "blended": true, "tokens": 5142, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI19-30688"}
+{"p": 0.733071706779739, "p_chair": 0.7558983789652103, "blended": true, "tokens": 4570, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26329"}
+{"p": 0.5184422843280897, "p_chair": 0.8358493322752516, "blended": true, "tokens": 4526, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25554"}
+{"p": 0.5507350532222564, "p_chair": 0.8536227218266916, "blended": true, "tokens": 4516, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26758"}
+{"p": 0.4085739835582858, "p_chair": 0.11107640133679222, "blended": true, "tokens": 4660, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-27295"}
+{"p": 0.27578713529784427, "p_chair": 0.17693719795159096, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26403"}
+{"p": 0.34043264689159836, "p_chair": 0.8163820030746163, "blended": true, "tokens": 4856, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26100"}
+{"p": 0.5142285996169084, "p_chair": 0.08006269902317892, "blended": true, "tokens": 4945, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24988"}
+{"p": 0.36509826428319053, "p_chair": 0.09837330059429034, "blended": true, "tokens": 4918, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-36654"}
+{"p": 0.5504850839004749, "p_chair": 0.16415066772474843, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN21-36246"}
+{"p": 0.22976658010973153, "p_chair": 0.7641440033912659, "blended": true, "tokens": 4654, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN18-28206"}
+{"p": 0.33662995109160404, "p_chair": 0.738830029964447, "blended": true, "tokens": 4671, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26470"}
+{"p": 0.3240053550429393, "p_chair": 0.12519222497940063, "blended": true, "tokens": 4626, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-26120"}
+{"p": 0.5337678410912178, "p_chair": 0.13543580674284408, "blended": true, "tokens": 4505, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-27226"}
+{"p": 0.40129549870291, "p_chair": 0.11561980498970136, "blended": true, "tokens": 4601, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN19-30382"}
+{"p": 0.6176924549955772, "p_chair": 0.094435280229764, "blended": true, "tokens": 4955, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI18-28421"}
+{"p": 0.36119508317376603, "p_chair": 0.7558983080968009, "blended": true, "tokens": 4561, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26519"}
+{"p": 0.5575735093818206, "p_chair": 0.7800505045048818, "blended": true, "tokens": 4987, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-22885"}
+{"p": 0.38606721400110794, "p_chair": 0.8230628616530556, "blended": true, "tokens": 4727, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI21-36314"}
+{"p": 0.7829793502352966, "p_chair": 0.6324065516116187, "blended": true, "tokens": 4742, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN16-23660"}
+{"p": 0.7591616732995582, "p_chair": 0.06091770361460497, "blended": true, "tokens": 4558, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI17-24379"}
+{"p": 0.46214886442075664, "p_chair": 0.7951717976352723, "blended": true, "tokens": 4869, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26050"}
+{"p": 0.4399474254996356, "p_chair": 0.730012059211731, "blended": true, "tokens": 4627, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-25999"}
+{"p": 0.13447321685748895, "p_chair": 0.08006269902317892, "blended": true, "tokens": 6629, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI25-44979"}
+{"p": 0.4420375223692553, "p_chair": 0.1408177486183904, "blended": true, "tokens": 4615, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI16-23389"}
+{"p": 0.25831958532188704, "p_chair": 0.08698077370255032, "blended": true, "tokens": 8421, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|EI23-39966"}
+{"p": 0.5411673975162737, "p_chair": 0.8645641932571559, "blended": true, "tokens": 4616, "key": "committee|drex-max-v1.1|2026-11-14T21:05:49|MN17-26244"}

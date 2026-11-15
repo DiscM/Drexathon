@@ -235,6 +235,27 @@ settled, and the AUCs are level. The blend was fitted on runs with
 the debate round, so `committee_r0 (blend)` is not a fair test of the
 no-debate committee; it would need its own fit.
 
+### Full test split (633 cases, live, 2026-11-14, drex-max-v1.1)
+
+`benchmark.py --n 633 --methods majority rule drex_single committee`,
+with the blend fitted above:
+
+| method | n | acc | prec | rec | F1 | AUC | $/case |
+|---|---|---|---|---|---|---|---|
+| majority | 633 | 0.477 | 0.477 | 1.000 | 0.646 | 0.500 | 0.000000* |
+| rule | 633 | 0.632 | 0.655 | 0.483 | 0.556 | 0.656 | 0.000000* |
+| drex_single | 633 | 0.637 | 0.632 | 0.570 | 0.599 | 0.707 | 0.000008* |
+| committee (blend) | 633 | 0.668 | 0.665 | 0.613 | 0.638 | 0.741 | 0.000147* |
+| committee_chair | 633 | 0.621 | 0.593 | 0.656 | 0.623 | 0.649 | 0.000147* |
+
+\* cost is an estimate at $0.03 per million input tokens.
+
+Paired bootstrap over the 633 cases, blend minus `drex_single`:
+accuracy +0.032 (95% interval -0.009 to +0.073), AUC +0.034
+(-0.006 to +0.076). Blend minus the chair's value on the same calls: AUC
++0.092 (+0.045 to +0.140). The 100-case table above is the first 100 of
+these cases and flattered every method.
+
 ### API differences found
 
 None so far: all calls matched the documented shapes.
